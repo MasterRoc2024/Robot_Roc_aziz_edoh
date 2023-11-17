@@ -7,18 +7,12 @@
 
 #ifndef PWM_H
 #define	PWM_H
+#define MOTEUR_DROIT 1
+#define MOTEUR_GAUCHE 0
 
-#ifdef	__cplusplus
-extern "C" {
-#endif
-void PWMSetSpeed(float vitesseEnPourcents);
+void PWMSetSpeed(float vitesseEnPourcents, unsigned char motorNb);
 void InitPWM(void);
 
-
-
-#ifdef	__cplusplus
-}
-#endif
 
 #endif	/* PWM_H */
 
