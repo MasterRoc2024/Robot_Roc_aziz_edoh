@@ -3,7 +3,7 @@
 #include <xc.h>
 #include "ChipConfig.h"
 #include "IO.h"
-#include"PWM.h"
+#include "PWM.h"
 #include "timer.h"
 int main(void) {
     /***************************************************************************************************/
@@ -19,10 +19,10 @@ int main(void) {
     InitTimer1();
     
     InitPWM();
-    PWMSetSpeed(-20, MOTEUR_DROIT);
-    PWMSetSpeed(-20, MOTEUR_GAUCHE);
+   // PWMSetSpeed(-20, MOTEUR_DROIT);
+   // PWMSetSpeed(-20, MOTEUR_GAUCHE);
    
-
+    PWMUpdateSpeed();
     LED_BLANCHE = 1;
     LED_BLEUE = 1;
     LED_ORANGE = 1;
