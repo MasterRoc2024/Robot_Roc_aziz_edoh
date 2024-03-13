@@ -47,6 +47,7 @@ int main(void) {
             volts = ((float) result [0])* 3.3 / 4096 * 3.2;
             robotState.distanceTelemetreGauche = 34 / volts - 5;
            
+            
         }
      
     } // fin main
