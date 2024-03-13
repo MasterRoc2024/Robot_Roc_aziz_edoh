@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using ExtendedSerialPort_NS;
 
 namespace RobotInterface
 {
@@ -20,6 +21,7 @@ namespace RobotInterface
     /// </summary>
     public partial class MainWindow : Window
     {
+        ExtendedSerialPort serialPort1;
         bool isRoyalBlue;
         
         public MainWindow()
