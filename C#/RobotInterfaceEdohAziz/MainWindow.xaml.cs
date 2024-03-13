@@ -39,8 +39,12 @@ namespace RobotInterface
                 ButtonEnvoyer.Background = Brushes.RoyalBlue;
                 isRoyalBlue = true;
             }
-
-            textBoxReception.Text += "Reçu : " + textBoxEmission.Text + "\n" ;
+            SendMessage();
+           
+        }
+        private void SendMessage()
+        {
+            textBoxReception.Text += "Reçu : " + textBoxEmission.Text + "\n";
             textBoxEmission.Text = "";
         }
 
@@ -48,7 +52,7 @@ namespace RobotInterface
         {
             if (e.Key == Key.Enter)
             {
-              
+                SendMessage();
                 
             }
 
