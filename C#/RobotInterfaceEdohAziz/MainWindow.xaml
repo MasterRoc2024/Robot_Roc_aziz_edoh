@@ -8,27 +8,25 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="30"/>
-            <RowDefinition/>
-            <RowDefinition Height="30"/>
-            <RowDefinition Height="30"/>
-            <RowDefinition Height="30"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="50"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="30"/>
-            <ColumnDefinition/>
-            <ColumnDefinition Width="30"/>
-            <ColumnDefinition/>
-            <ColumnDefinition Width="30"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
-        <GroupBox Grid.Column="1" Grid.Row="1" x:Name="groupBox" Header="Emission" BorderBrush="Black">
+        
+        <GroupBox Grid.Column="0" Grid.Row="0" x:Name="groupBox" Header="Emission" Margin="5">
             <TextBox x:Name="textBoxEmission" KeyUp="TextBoxEmission_Keyup">                
             </TextBox>
         </GroupBox>
-        <GroupBox Grid.Column="3" Grid.Row="1"  x:Name="groupBox1" Header="Réception"  BorderBrush="Black" Background="#FFDDDDDD">
-            <TextBox x:Name="textBoxReception" Margin="1,0,0,0" TextWrapping="Wrap"/>
+        <GroupBox Grid.Column="1" Grid.Row="0"  x:Name="groupBox1" Header="Réception" Margin="5">
+            <TextBox x:Name="textBoxReception" TextWrapping="Wrap"/>
         </GroupBox>
-        <Button x:Name="ButtonEnvoyer" Grid.Column="1" Content="Envoyer" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Width="100" Height="30" Click="ButtonEnvoyer_Click"/>
-
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <Button x:Name="ButtonEnvoyer"  Content="Envoyer"  Width="100" Height="30" Click="ButtonEnvoyer_Click" Margin="10"/>
+            <Button x:Name="ButtonClear"  Content="Clear"   Width="100" Height="30" Click="ButtonClear_Click" Margin="10"/>
+            <Button x:Name="ButtonTest" Content="Test"  Width="100" Height="30" Click="ButtonTest_Click" Margin="10"/>
+        </StackPanel> 
     </Grid>
 </Window>

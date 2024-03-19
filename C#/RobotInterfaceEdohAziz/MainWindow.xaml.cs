@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using ExtendedSerialPort_NS;
+using System.IO.Ports;
 
 namespace RobotInterface
 {
@@ -21,12 +22,23 @@ namespace RobotInterface
     /// </summary>
     public partial class MainWindow : Window
     {
-        ExtendedSerialPort serialPort1;
+        private ExtendedSerialPort serialPort1;
         bool isRoyalBlue;
         
         public MainWindow()
         {
             InitializeComponent();
+           // serialPort1 = new ExtendedSerialPort("COM21", 115200, Parity.None, 8, StopBits.One); // Initialize the serial port
+            serialPort1 = new ReliableSerialPort("COM21", 115200, Parity.None, 8, StopBits.One);
+
+            serialPort1.DataReceived += SerialPort1_DataReceived; 
+
+            serialPort1.Open();                                                                 // Open the serial port
+
+            public void SerialPort1_DataReceived(object sender, DataReceivedArgs e)
+            { }
+
+
         }
 
         private void ButtonEnvoyer_Click(object sender, RoutedEventArgs e)
@@ -46,8 +58,11 @@ namespace RobotInterface
         }
         private void SendMessage()
         {
+            serialPort1.WriteLine("Bonjour");
             textBoxReception.Text += "Reçu : " + textBoxEmission.Text + "\n";
             textBoxEmission.Text = "";
+
+
         }
 
         private void TextBoxEmission_Keyup(object sender, KeyEventArgs e)
@@ -57,6 +72,16 @@ namespace RobotInterface
                 SendMessage();
                 
             }
+
+        }
+
+        private void ButtonClear_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ButtonTest_Click(object sender, RoutedEventArgs e)
+        {
 
         }
     }
