@@ -45,19 +45,21 @@ namespace RobotInterface
 
         }
 
+        string receivedText = "";
+
         private void TimerAffichage_Tick(object? sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            if (receivedText != "")
+            {
+                textBoxReception.Text += receivedText;
+                receivedText = "";
+            }
         }
-
-        string receivedText = null;
-
         public void SerialPort1_DataReceived(object sender, DataReceivedArgs e)
         {
-
            
             receivedText += Encoding.UTF8.GetString(e.Data, 0, e.Data.Length);
-            textBoxReception.Text += receivedText;
+            //textBoxReception.Text += receivedText;
         }
 
         DispatcherTimer timerAffichage;
