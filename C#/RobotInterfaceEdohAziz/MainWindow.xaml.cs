@@ -26,6 +26,8 @@ namespace RobotInterface
         private ExtendedSerialPort serialPort1;
         bool isRoyalBlue;
         
+        Robot robot = new Robot();      // Instanciation de la classe robot
+
         public MainWindow()
         {
             InitializeComponent();
@@ -45,21 +47,27 @@ namespace RobotInterface
 
         }
 
-        string receivedText = "";
+        //string robot.receivedText = "";
 
         private void TimerAffichage_Tick(object? sender, EventArgs e)
         {
-            if (receivedText != "")
+            while (robot.byteListReceived.Count >0)
             {
-                textBoxReception.Text += receivedText;
-                receivedText = "";
+                var c = robot.byteListReceived.Dequeue();
+                textBoxReception.Text += "0x" + c.ToString("X2") + " ";
+               //textBoxReception.Text += Encoding.ASCII.GetString(robot.byteListReceived.ToArray());
+               
             }
         }
         public void SerialPort1_DataReceived(object sender, DataReceivedArgs e)
         {
            
-            receivedText += Encoding.UTF8.GetString(e.Data, 0, e.Data.Length);
+            robot.receivedText += Encoding.UTF8.GetString(e.Data, 0, e.Data.Length);
             //textBoxReception.Text += receivedText;
+            foreach(byte value in e.Data)
+            {
+                robot.byteListReceived.Enqueue(value);
+            }
         }
 
         DispatcherTimer timerAffichage;
@@ -101,14 +109,20 @@ namespace RobotInterface
 
         }
 
+        // Evenement click du bouton clear
         private void ButtonClear_Click(object sender, RoutedEventArgs e)
         {
-
+            if (ButtonClear.IsEnabled) { textBoxReception.Text = ""; }
         }
 
+
+        // Evenement click du bouton Test
         private void ButtonTest_Click(object sender, RoutedEventArgs e)
         {
-
+            byte[] byteList = new byte[20]; 
+            for(int i=0; i< 20; i++)
+                byteList[i] = (byte) (i*2);
+            serialPort1.Write(byteList, 0, byteList.Length);
         }
     }
 }

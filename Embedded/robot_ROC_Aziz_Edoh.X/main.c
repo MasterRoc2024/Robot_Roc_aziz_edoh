@@ -1,12 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <xc.h>
+#include <libpic30.h>
 #include "ChipConfig.h"
 #include "IO.h"
 #include "PWM.h"
 #include "timer.h"
 #include "ADC.h"
 #include "Robot.h"
+#include "UART.h"
+
 int ADCResult0;
 int ADCResult1;
 int ADCResult2;
@@ -24,6 +27,8 @@ int main(void) {
     InitTimer1();
     InitADC1();
     InitPWM();
+    
+    InitUART();
    // PWMSetSpeed(-20, MOTEUR_DROIT);
    // PWMSetSpeed(-20, MOTEUR_GAUCHE);
    
@@ -49,6 +54,8 @@ int main(void) {
            
             
         }
-     
+     //SendMessageDirect((unsigned char*) "bonjour", 7);
+     //__delay32(40000000);
+
     } // fin main
 }
