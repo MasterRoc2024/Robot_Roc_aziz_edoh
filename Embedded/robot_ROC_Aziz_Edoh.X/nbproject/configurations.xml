@@ -12,6 +12,13 @@
       <itemPath>timer.h</itemPath>
       <itemPath>ADC.h</itemPath>
       <itemPath>UART.h</itemPath>
+      <itemPath>CB_TX1.h</itemPath>
+      <itemPath>CB_RX1.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="true">
+      <itemPath>Makefile</itemPath>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
                    displayName="Linker Files"
@@ -29,11 +36,8 @@
       <itemPath>timer.c</itemPath>
       <itemPath>ADC.c</itemPath>
       <itemPath>UART.c</itemPath>
-    </logicalFolder>
-    <logicalFolder name="ExternalFiles"
-                   displayName="Important Files"
-                   projectFiles="false">
-      <itemPath>Makefile</itemPath>
+      <itemPath>CB_TX1.c</itemPath>
+      <itemPath>CB_RX1.c</itemPath>
     </logicalFolder>
   </logicalFolder>
   <sourceRootList>
@@ -49,7 +53,7 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool>ICD4Tool</platformTool>
         <languageToolchain>XC16</languageToolchain>
-        <languageToolchainVersion>2.00</languageToolchainVersion>
+        <languageToolchainVersion>2.10</languageToolchainVersion>
         <platform>3</platform>
       </toolsSet>
       <packs>
