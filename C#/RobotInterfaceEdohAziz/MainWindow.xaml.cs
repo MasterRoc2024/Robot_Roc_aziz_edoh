@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 using ExtendedSerialPort_NS;
 using System.IO.Ports;
 using System.Windows.Threading;
+using System.Diagnostics.Tracing;
 
 namespace RobotInterface
 {
@@ -73,6 +74,28 @@ namespace RobotInterface
         DispatcherTimer timerAffichage;
 
 
+        byte CalculateChecksum(int msgFunction, int msgPayloadLength, byte[] msgPayload)
+        {
+            
+            byte checksum = 0;
+            checksum ^= 0xFE;
+            checksum ^= (byte)(msgFunction >> 8);
+            checksum ^= (byte)(msgFunction >> 0);
+            checksum ^= (byte)(msgPayloadLength >> 8);
+            checksum ^= (byte)(msgPayloadLength >> 0);
+            for (int i = 0; i < msgPayloadLength; i++)
+            {
+                checksum ^= msgPayload[i];
+            }
+            return checksum;
+        }
+
+        void UartEncodeAndSendMessage(int msgFunction,int msgPayloadLength, byte[] msgPayload, byte[] msgPayload)
+        {
+           
+            var checksum = CalculateChecksum(msgFunction, msgPayloadLength, (byte)msg);
+            byte[] msg = Encoding.ASCII.GetBytes(msg);
+        }
 
 
         private void ButtonEnvoyer_Click(object sender, RoutedEventArgs e)

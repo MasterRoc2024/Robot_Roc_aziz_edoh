@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "CB_TX1.h"
+#include "CB_RX1.h"
 #define CBTX1_BUFFER_SIZE 128
 int cbTx1Head;
 int cbTx1Tail;
@@ -63,8 +64,6 @@ int CB_TX1_GetDataSize(void) {
 }
 
 int CB_TX1_GetRemainingSize(void) {
-    //return size of remaining size in circular buffer
-    int remainingSize;
-    remainingSize = CBTX1_BUFFER_SIZE - cbTx1Head;
-    return remainingSize;
+    //return size of remaining size in circular buffer    
+    return CBTX1_BUFFER_SIZE - CB_RX1_GetDataSize();
 }
