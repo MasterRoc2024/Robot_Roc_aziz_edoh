@@ -56,8 +56,9 @@ namespace RobotInterface
             {
                 var c = robot.byteListReceived.Dequeue();
                 textBoxReception.Text += "0x" + c.ToString("X2") + " ";
-               //textBoxReception.Text += Encoding.ASCII.GetString(robot.byteListReceived.ToArray());
-               
+                //textBoxReception.Text += Encoding.ASCII.GetString(robot.byteListReceived.ToArray());
+                
+
             }
         }
         public void SerialPort1_DataReceived(object sender, DataReceivedArgs e)
@@ -90,14 +91,95 @@ namespace RobotInterface
             return checksum;
         }
 
-        void UartEncodeAndSendMessage(int msgFunction,int msgPayloadLength, byte[] msgPayload, byte[] msgPayload)
+        void UartEncodeAndSendMessage(int msgFunction, int msgPayloadLength, byte[] msgPayload)
         {
-           
-            var checksum = CalculateChecksum(msgFunction, msgPayloadLength, (byte)msg);
-            byte[] msg = Encoding.ASCII.GetBytes(msg);
+            var checksum = CalculateChecksum(msgFunction, msgPayloadLength, msgPayload);
+            byte[] messageComplet = new byte[msgPayloadLength + 6];
+            int pos = 0;
+            messageComplet[pos++] = 0xFE;
+            messageComplet[pos++] = (byte)(msgFunction >> 8);
+            messageComplet[pos++] = (byte)(msgFunction >> 0);
+            messageComplet[pos++] = (byte)(msgPayloadLength >> 8);
+            messageComplet[pos++] = (byte)(msgPayloadLength >> 0);
+            for (int i = 0;i < msgPayloadLength;i++)
+            {
+                messageComplet[pos++] = msgPayload[i];
+            }
+            messageComplet[pos++] = checksum;
+            serialPort1.Write(messageComplet, 0, msgPayloadLength+6);
         }
-
-
+        public enum StateReception
+        {
+            Waiting,
+            FunctionMSB,
+            FunctionLSB,
+            PayloadLengthMSB,
+            PayloadLengthLSB,
+            Payload,
+            CheckSum
+        }
+        StateReception rcvState = StateReception.Waiting;
+        int msgDecodedFunction = 0;
+        int msgDecodedPayloadLength = 0;
+        byte[] msgDecodedPayload;
+        int msgDecodedPayloadIndex = 0;
+        private void DecodeMessage(byte c)
+        {
+            switch (rcvState)
+            {
+                case StateReception.Waiting:
+                    if (c== 0XFE){
+                        rcvState = StateReception.FunctionMSB;
+                       
+                    }
+                    break;
+                case StateReception.FunctionMSB:
+                    msgDecodedFunction = (c >> 8);
+                    rcvState = StateReception.FunctionLSB;
+                break;
+                case StateReception.FunctionLSB:
+                   msgDecodedFunction |= c ;
+                    rcvState = StateReception.PayloadLengthMSB;
+                break;
+                case StateReception.PayloadLengthMSB:
+                    msgDecodedPayloadLength = (c << 8);
+                    rcvState = StateReception.PayloadLengthLSB;
+                break;
+                case StateReception.PayloadLengthLSB:
+                    msgDecodedPayloadLength |= c ;
+                    if (msgDecodedPayloadLength == 0)
+                    {
+                        rcvState = StateReception.CheckSum;
+                    }
+                    else
+                    {
+                        msgDecodedPayload = new byte[msgDecodedPayloadLength];
+                        msgDecodedPayloadIndex = 0;
+                        rcvState = StateReception.Payload;
+                    }
+                break;
+                case StateReception.Payload:
+                    msgDecodedPayload[msgDecodedPayloadIndex] = c;
+                    msgDecodedPayloadIndex++;
+                    if(msgDecodedPayloadIndex >= msgDecodedPayloadLength)
+                        rcvState = StateReception.CheckSum;
+                    break;
+                case StateReception.CheckSum:
+                    var receivedChecksum = c;
+                    byte calculatedChecksum = CalculateChecksum(msgDecodedFunction, msgDecodedPayloadLength, msgDecodedPayload) ;
+                    if (calculatedChecksum == receivedChecksum)
+                    {
+                        //Success, on a un message valide
+                        Console.WriteLine("message reçu");
+                    }
+                    
+                    rcvState = StateReception.Waiting;
+                break;
+                default:
+                    rcvState = StateReception.Waiting;
+                    break;
+            }
+        }
         private void ButtonEnvoyer_Click(object sender, RoutedEventArgs e)
         {
 
@@ -110,15 +192,17 @@ namespace RobotInterface
                 ButtonEnvoyer.Background = Brushes.RoyalBlue;
                 isRoyalBlue = true;
             }
+           
             SendMessage();
            
         }
         private void SendMessage()
         {
-            serialPort1.WriteLine(textBoxEmission.Text);
+            //serialPort1.WriteLine(textBoxEmission.Text);
             //textBoxReception.Text += "Reçu : " + textBoxEmission.Text + "\n";
-            textBoxEmission.Text = "";
-
+            UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+            //textBoxEmission.Text = "";
+            
 
         }
 
@@ -126,6 +210,7 @@ namespace RobotInterface
         {
             if (e.Key == Key.Enter)
             {
+                
                 SendMessage();
                 
             }
@@ -142,10 +227,16 @@ namespace RobotInterface
         // Evenement click du bouton Test
         private void ButtonTest_Click(object sender, RoutedEventArgs e)
         {
-            byte[] byteList = new byte[20]; 
-            for(int i=0; i< 20; i++)
-                byteList[i] = (byte) (i*2);
-            serialPort1.Write(byteList, 0, byteList.Length);
+          
+            byte[] byteList = new byte[20];
+            for (int i = 0; i < 20; i++)
+                byteList[i] = (byte)(i * 2);
+
+            UartEncodeAndSendMessage(0x0080, byteList.Length, byteList);
+            //serialPort1.Write(byteList, 0, byteList.Length);
+            UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+
+
         }
     }
 }
