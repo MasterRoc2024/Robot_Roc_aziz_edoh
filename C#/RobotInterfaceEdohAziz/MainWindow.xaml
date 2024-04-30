@@ -5,29 +5,60 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RobotInterface"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="480" Width="800">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="193*"/>
-            <RowDefinition Height="191*"/>
+            <RowDefinition Height="180*"/>
             <RowDefinition Height="50"/>
+            <RowDefinition Height="120*"/>
+            
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
 
-        <GroupBox Grid.Column="0" Grid.Row="0" x:Name="groupBox" Header="Emission" Margin="5,5,5,5" Grid.RowSpan="2">
+        <GroupBox Grid.Column="0" Grid.Row="0" x:Name="groupBox" Header="Emission" Margin="5,5,5,50" Grid.RowSpan="2">
             <TextBox x:Name="textBoxEmission" KeyUp="TextBoxEmission_Keyup">
             </TextBox>
         </GroupBox>
-        <GroupBox Grid.Column="1" Grid.Row="0"  x:Name="groupBox1" Header="Réception" Margin="5,5,5,5" Grid.RowSpan="2">
+        <GroupBox Grid.Column="1" Grid.Row="0"  x:Name="groupBox1" Header="Réception" Margin="5,0,5,50" Grid.RowSpan="2">
             <TextBox x:Name="textBoxReception" TextWrapping="Wrap"/>
         </GroupBox>
-        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="220,191,0,0" Grid.RowSpan="2">
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="0,230,0,0" Grid.RowSpan="2">
             <Button x:Name="ButtonEnvoyer"  Content="Envoyer"  Width="100" Height="30" Click="ButtonEnvoyer_Click" Margin="10"/>
             <Button x:Name="ButtonClear"  Content="Clear"   Width="100" Height="30" Click="ButtonClear_Click" Margin="10"/>
             <Button x:Name="ButtonTest" Content="Test"  Width="100" Height="30" Click="ButtonTest_Click" Margin="10"/>
         </StackPanel>
+        
+        <GroupBox  Grid.Row="2" Grid.Column="0" x:Name="groupBox2" Header="Leds" Margin="10,5,300,30" >
+            <TextBox x:Name="textBoxLeds" TextWrapping="Wrap" Height="0" VerticalAlignment="Top"/>
+        </GroupBox>
+        <GroupBox  Grid.Row="2" Grid.Column="0" x:Name="groupBox3" Header="Télémètres IR" Margin="110,5,60,30" >
+            <TextBox x:Name="textBoxtelemetre" TextWrapping="Wrap" Height="0" VerticalAlignment="Top"/>
+        </GroupBox>
+        <GroupBox  Grid.Row="2" Grid.Column="1" x:Name="groupBox4" Header="Moteurs" Margin="-50,5,200,30" >
+            <TextBox x:Name="textBoxmoteurs" TextWrapping="Wrap" Height="0" VerticalAlignment="Top"/>
+        </GroupBox>
+
+        <StackPanel Orientation="Vertical" Grid.Row="2" HorizontalAlignment="Left" Margin="20,30,295,30" Grid.RowSpan="2">
+            <CheckBox x:Name="checkboxLed1" Content="Led1" Margin="10,5,0,10"/>
+            <CheckBox x:Name="checkboxLed2" Content="Led2" Margin="10,5,0,10"/>
+            <CheckBox x:Name="checkboxLed3" Content="Led3" Margin="10,5,0,10"/>
+
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="2" HorizontalAlignment="Left" Margin="110,30,60,30" Grid.RowSpan="2">
+            <TextBox x:Name="textboxirgauche" TextWrapping="Wrap" Text="IR Gauche :" Width="120" Margin="10, 5,0,10"></TextBox>
+            <TextBox x:Name="textboxircentre" TextWrapping="Wrap" Text="IR Centre :" Width="120" Margin="10, 5,0,10"></TextBox>
+            <TextBox x:Name="textboxirdroit" TextWrapping="Wrap" Text="IR Droit :" Width="120" Margin="10, 5,0,10"></TextBox>
+
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left" Margin="-50,30,200,30" Grid.RowSpan="2">
+            <TextBox x:Name="textboxvitessegauche" TextWrapping="Wrap" Text="Vitesse Gauche :" Width="120" Margin="10, 5,0,10"/>
+            <TextBox x:Name="textboxvitessedroite" TextWrapping="Wrap" Text="Vitesse Drtoite :" Width="120" Margin="10, 5,0,10"></TextBox>
+          
+
+        </StackPanel>
+
     </Grid>
 </Window>

@@ -185,6 +185,19 @@ namespace RobotInterface
                     break;
             }
         }
+
+        void transmissiontexte(int msgfunction, int msgPayloadLength, byte[] msgPayload)
+        {
+            var encodemessage = "";
+            
+            encodemessage = UartEncodeAndSendMessage(0x0080, msgPayloadLength, Encoding.ASCII.GetBytes(msgPayload));         
+        }
+
+        private string UartEncodeAndSendMessage(int v, int msgPayloadLength, object value)
+        {
+            throw new NotImplementedException();
+        }
+
         private void ButtonEnvoyer_Click(object sender, RoutedEventArgs e)
         {
 
