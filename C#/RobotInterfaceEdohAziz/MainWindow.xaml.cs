@@ -172,7 +172,12 @@ namespace RobotInterface
                         //Success, on a un message valide
                         Console.WriteLine("message reçu");
                     }
-                    
+
+                    else
+                    {
+                        throw new Exception();
+
+                    }
                     rcvState = StateReception.Waiting;
                 break;
                 default:
@@ -200,9 +205,9 @@ namespace RobotInterface
         {
             //serialPort1.WriteLine(textBoxEmission.Text);
             //textBoxReception.Text += "Reçu : " + textBoxEmission.Text + "\n";
+            //textBoxEmission.Text = "";*
             UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
-            //textBoxEmission.Text = "";
-            
+
 
         }
 
@@ -232,9 +237,9 @@ namespace RobotInterface
             for (int i = 0; i < 20; i++)
                 byteList[i] = (byte)(i * 2);
 
-            UartEncodeAndSendMessage(0x0080, byteList.Length, byteList);
+            //UartEncodeAndSendMessage(0x0080, byteList.Length, byteList);
             //serialPort1.Write(byteList, 0, byteList.Length);
-            UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+            //UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
 
 
         }
