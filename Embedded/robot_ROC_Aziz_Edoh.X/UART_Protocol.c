@@ -35,7 +35,7 @@ void UartEncodeAndSendMessage(int msgFunction,int msgPayloadLength, unsigned cha
         messageComplet[pos++] = msgPayload[i];
     }
     messageComplet[pos++] = checksum;
- //   SendMessageDirect(messageComplet, 0, msgPayloadLength+6);
+    SendMessageDirect(messageComplet, msgPayloadLength+6);
 }
 
 

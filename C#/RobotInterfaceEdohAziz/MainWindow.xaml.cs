@@ -288,12 +288,12 @@ namespace RobotInterface
         }
         private void SendMessage()
         {
-            //serialPort1.WriteLine(textBoxEmission.Text);
+           //erialPort1.WriteLine(textBoxEmission.Text);
             //textBoxReception.Text += "Reçu : " + textBoxEmission.Text + "\n";
             //textBoxEmission.Text = "";*
           //UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
 
-            DecodeMessage(0x038);
+          
         }
 
         private void TextBoxEmission_Keyup(object sender, KeyEventArgs e)
@@ -321,11 +321,11 @@ namespace RobotInterface
             byte[] byteList = new byte[20];
             for (int i = 0; i < 20; i++)
                 byteList[i] = (byte)(i * 2);
-          ProcessDecodedMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+      //ProcessDecodedMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
            
             //UartEncodeAndSendMessage(0x0080, byteList.Length, byteList);
             //serialPort1.Write(byteList, 0, byteList.Length);
-            //UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+       //   UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
 
 
         }
