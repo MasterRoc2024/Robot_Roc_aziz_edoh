@@ -16,6 +16,7 @@ using ExtendedSerialPort_NS;
 using System.IO.Ports;
 using System.Windows.Threading;
 using System.Diagnostics.Tracing;
+using static RobotInterface.MainWindow;
 
 namespace RobotInterface
 {
@@ -134,7 +135,7 @@ namespace RobotInterface
                     }
                     break;
                 case StateReception.FunctionMSB:
-                    msgDecodedFunction = (c >> 8);
+                    msgDecodedFunction = (c << 8);
                     rcvState = StateReception.FunctionLSB;
                 break;
                 case StateReception.FunctionLSB:
@@ -175,7 +176,7 @@ namespace RobotInterface
 
                     else
                     {
-                        throw new Exception();
+                        throw new Exception("Erreur dans la trame!!!");
 
                     }
                     rcvState = StateReception.Waiting;
@@ -186,17 +187,88 @@ namespace RobotInterface
             }
         }
 
-        void transmissiontexte(int msgfunction, int msgPayloadLength, byte[] msgPayload)
+        public enum Command
         {
-            var encodemessage = "";
-            
-            encodemessage = UartEncodeAndSendMessage(0x0080, msgPayloadLength, Encoding.ASCII.GetBytes(msgPayload));         
+            text = 0x0080,
+            led = 0x0020,
+            ir = 0x0030,
+            vitesse = 0x0040,
+
         }
 
-        private string UartEncodeAndSendMessage(int v, int msgPayloadLength, object value)
+        void ProcessDecodedMessage(int msgFunction, int msgPayloadLength, byte[] msgPayload)
         {
-            throw new NotImplementedException();
+
+            switch (msgFunction)
+            {
+                case (int)Command.text:
+
+                    for (int i = 0; i < msgPayloadLength; i++)
+                    {
+                        textBoxReception.Text += "0x" + msgPayload[i].ToString("X") + " ";
+                    }
+                    textBoxReception.Text += Environment.NewLine;
+                    textBoxReception.Text += "Texte reçu : " + Encoding.ASCII.GetString(msgPayload);
+                    textBoxReception.Text += Environment.NewLine;
+                    break;
+
+                case (int)Command.led:
+
+                    for (int i = 0; i < msgPayloadLength; i++)
+                    {
+                        textBoxReception.Text += "0x" + msgPayload[i].ToString("X") + " ";
+                    }
+                    textBoxReception.Text += Environment.NewLine;
+                    textBoxReception.Text += "LED Number : " + msgPayload[0].ToString() + " ";
+                    if (msgPayload[1] == 1)
+                    {
+                        textBoxReception.Text += "( Allumée )";
+                        checkBoxLed1.IsChecked = true;
+                    }
+                    else
+                        textBoxReception.Text += "( éteinte )";
+                    textBoxReception.Text += Environment.NewLine;
+                    break;
+
+                case (int)Command.ir:
+
+                    for (int i = 0; i < msgPayloadLength; i++)
+                    {
+                        textBoxReception.Text += "0x" + msgPayload[i].ToString("X") + " ";
+                    }
+                    textBoxReception.Text += Environment.NewLine;
+                    textBoxReception.Text += "Télémètre Gauche : " + msgPayload[0].ToString() + Environment.NewLine;    //AFFichage de la valeur de télémètre gauche
+                    textBoxReception.Text += "Télémètre Centre : " + msgPayload[1].ToString() + Environment.NewLine;    // Affichage de la valeur de télémètre  centre
+                    textBoxReception.Text += "Télémètre Droit : " + msgPayload[2].ToString() + Environment.NewLine;     // Valeur télémètre droit
+                    textBoxReception.Text += Environment.NewLine;
+
+                    IR_Gauche.Content = msgPayload[0];          // Actualisation du contenu de télémètre gauche
+                    IR_Centre.Content = msgPayload[1];          // Actualisation du contenu du télémètre centre
+                    IR_Droit.Content = msgPayload[2];           // Actualisation  du contenu dub télémètre droit
+                    break;
+
+                case (int)Command.vitesse:
+
+                    for (int i = 0; i < msgPayloadLength; i++)
+                    {
+                        textBoxReception.Text += "0x" + msgPayload[i].ToString("X") + " ";
+                    }
+                    // Affichage et mises à jour des valeurs des commandes moteurs
+                    textBoxReception.Text += Environment.NewLine;
+                    textBoxReception.Text += "Moteur Gauche : " + msgPayload[0].ToString() + Environment.NewLine;
+                    textBoxReception.Text += "Moteur Droit : " + msgPayload[1].ToString() + Environment.NewLine;
+                    textBoxReception.Text += Environment.NewLine;
+
+
+                    Moteur_Gauche.Content = msgPayload[0];
+                    Moteur_Droit.Content = msgPayload[1];
+
+                    break;
+
+            }
         }
+
+       
 
         private void ButtonEnvoyer_Click(object sender, RoutedEventArgs e)
         {
@@ -219,9 +291,9 @@ namespace RobotInterface
             //serialPort1.WriteLine(textBoxEmission.Text);
             //textBoxReception.Text += "Reçu : " + textBoxEmission.Text + "\n";
             //textBoxEmission.Text = "";*
-            UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+          //UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
 
-
+            DecodeMessage(0x038);
         }
 
         private void TextBoxEmission_Keyup(object sender, KeyEventArgs e)
@@ -249,7 +321,8 @@ namespace RobotInterface
             byte[] byteList = new byte[20];
             for (int i = 0; i < 20; i++)
                 byteList[i] = (byte)(i * 2);
-
+          ProcessDecodedMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+           
             //UartEncodeAndSendMessage(0x0080, byteList.Length, byteList);
             //serialPort1.Write(byteList, 0, byteList.Length);
             //UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
