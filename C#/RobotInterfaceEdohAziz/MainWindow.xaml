@@ -33,32 +33,35 @@
         
         <GroupBox  Grid.Row="2" Grid.Column="0" x:Name="groupBox2" Header="Leds" Margin="10,5,300,30" >
             <TextBox x:Name="textBoxLeds" TextWrapping="Wrap" Height="0" VerticalAlignment="Top"/>
+                <StackPanel Orientation="Vertical" Grid.Row="2" HorizontalAlignment="Left" Margin="20,30,295,30" Grid.RowSpan="2">
+                    <CheckBox x:Name="checkboxLed1" Content="Led1" Margin="10,5,0,10"/>
+                    <CheckBox x:Name="checkboxLed2" Content="Led2" Margin="10,5,0,10"/>
+                    <CheckBox x:Name="checkboxLed3" Content="Led3" Margin="10,5,0,10"/>
+
+                </StackPanel>
         </GroupBox>
+
         <GroupBox  Grid.Row="2" Grid.Column="0" x:Name="groupBox3" Header="Télémètres IR" Margin="110,5,60,30" >
             <TextBox x:Name="textBoxtelemetre" TextWrapping="Wrap" Height="0" VerticalAlignment="Top"/>
+
+                <StackPanel Orientation="Vertical" Grid.Row="2" HorizontalAlignment="Left" Margin="110,30,60,30" Grid.RowSpan="2">
+                    <TextBox x:Name="textboxirgauche" TextWrapping="Wrap" Text="IR Gauche :" Width="120" Margin="10, 5,0,10"></TextBox>
+                    <TextBox x:Name="textboxircentre" TextWrapping="Wrap" Text="IR Centre :" Width="120" Margin="10, 5,0,10"></TextBox>
+                    <TextBox x:Name="textboxirdroit" TextWrapping="Wrap" Text="IR Droit :" Width="120" Margin="10, 5,0,10"></TextBox>
+                  </StackPanel>
         </GroupBox>
+
+
+
         <GroupBox  Grid.Row="2" Grid.Column="1" x:Name="groupBox4" Header="Moteurs" Margin="-50,5,200,30" >
             <TextBox x:Name="textBoxmoteurs" TextWrapping="Wrap" Height="0" VerticalAlignment="Top"/>
+                <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left" Margin="-50,30,200,30" Grid.RowSpan="2">
+                    <TextBox x:Name="textboxvitessegauche" TextWrapping="Wrap" Text="Vitesse Gauche :" Width="120" Margin="10, 5,0,10"/>
+                    <TextBox x:Name="textboxvitessedroite" TextWrapping="Wrap" Text="Vitesse Drtoite :" Width="120" Margin="10, 5,0,10"></TextBox>
+        
+                </StackPanel>
         </GroupBox>
-
-        <StackPanel Orientation="Vertical" Grid.Row="2" HorizontalAlignment="Left" Margin="20,30,295,30" Grid.RowSpan="2">
-            <CheckBox x:Name="checkboxLed1" Content="Led1" Margin="10,5,0,10"/>
-            <CheckBox x:Name="checkboxLed2" Content="Led2" Margin="10,5,0,10"/>
-            <CheckBox x:Name="checkboxLed3" Content="Led3" Margin="10,5,0,10"/>
-
-        </StackPanel>
-        <StackPanel Orientation="Vertical" Grid.Row="2" HorizontalAlignment="Left" Margin="110,30,60,30" Grid.RowSpan="2">
-            <TextBox x:Name="textboxirgauche" TextWrapping="Wrap" Text="IR Gauche :" Width="120" Margin="10, 5,0,10"></TextBox>
-            <TextBox x:Name="textboxircentre" TextWrapping="Wrap" Text="IR Centre :" Width="120" Margin="10, 5,0,10"></TextBox>
-            <TextBox x:Name="textboxirdroit" TextWrapping="Wrap" Text="IR Droit :" Width="120" Margin="10, 5,0,10"></TextBox>
-
-        </StackPanel>
-        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left" Margin="-50,30,200,30" Grid.RowSpan="2">
-            <TextBox x:Name="textboxvitessegauche" TextWrapping="Wrap" Text="Vitesse Gauche :" Width="120" Margin="10, 5,0,10"/>
-            <TextBox x:Name="textboxvitessedroite" TextWrapping="Wrap" Text="Vitesse Drtoite :" Width="120" Margin="10, 5,0,10"></TextBox>
-          
-
-        </StackPanel>
+  
 
     </Grid>
 </Window>
