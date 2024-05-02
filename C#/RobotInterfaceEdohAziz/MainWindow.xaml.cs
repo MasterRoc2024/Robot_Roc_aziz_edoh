@@ -242,9 +242,9 @@ namespace RobotInterface
                     textBoxReception.Text += "Télémètre Droit : " + msgPayload[2].ToString() + Environment.NewLine;     // Valeur télémètre droit
                     textBoxReception.Text += Environment.NewLine;
 
-                    IR_Gauche.Content = msgPayload[0];          // Actualisation du contenu de télémètre gauche
-                    IR_Centre.Content = msgPayload[1];          // Actualisation du contenu du télémètre centre
-                    IR_Droit.Content = msgPayload[2];           // Actualisation  du contenu dub télémètre droit
+                    IR_Gauche.Content = ("IR Gauche : ") + msgPayload[0].ToString() + ("cm");    // Actualisation du content de télètre gauche
+                    IR_Centre.Content = ("IR Centre : ") + msgPayload[1].ToString() + ("cm");    // Actualisation du télémètre Centre
+                    IR_Droit.Content = ("IR Droit : ") + msgPayload[2].ToString() + ("cm");        // Actualisation du content de telemetre droit
                     break;
 
                 case (int)Command.vitesse:
@@ -260,8 +260,8 @@ namespace RobotInterface
                     textBoxReception.Text += Environment.NewLine;
 
 
-                    Moteur_Gauche.Content = msgPayload[0];
-                    Moteur_Droit.Content = msgPayload[1];
+                    Moteur_Gauche.Content = ("Moteur Gauche : ") + msgPayload[0] + ("%");
+                    Moteur_Droit.Content = ("Moteur Droit : ") + msgPayload[1] + ("%");
 
                     break;
 
@@ -317,15 +317,28 @@ namespace RobotInterface
         // Evenement click du bouton Test
         private void ButtonTest_Click(object sender, RoutedEventArgs e)
         {
-          
-            byte[] byteList = new byte[20];
-            for (int i = 0; i < 20; i++)
-                byteList[i] = (byte)(i * 2);
-      //ProcessDecodedMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
-           
-            //UartEncodeAndSendMessage(0x0080, byteList.Length, byteList);
+
+            //byte[] byteList = new byte[20];
+            //for (int i = 0; i < 20; i++)
+            //    byteList[i] = (byte)(i * 2);
+
+
             //serialPort1.Write(byteList, 0, byteList.Length);
-       //   UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+            int v = 0x0020;
+            byte[] payload = { 1, 1 };
+            int payloadlength = payload.Length;
+         
+         ProcessDecodedMessage(v, payloadlength, payload);
+            int m = 0x0040;
+            byte[] moteurpayload = { 10, 20 };
+            ProcessDecodedMessage(m, moteurpayload.Length, moteurpayload);
+
+            int t = 0x0030;
+            byte[] telemetrepayload = { 12, 13, 14 };
+            ProcessDecodedMessage(t, telemetrepayload.Length, telemetrepayload);
+
+
+       //UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
 
 
         }

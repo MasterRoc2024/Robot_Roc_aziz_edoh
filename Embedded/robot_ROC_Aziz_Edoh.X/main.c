@@ -54,7 +54,9 @@ int main(void) {
             robotState.distanceTelemetreCentre = 34 / volts - 5;
             volts = ((float) result [0])* 3.3 / 4096 * 3.2;
             robotState.distanceTelemetreGauche = 34 / volts - 5;
-
+            unsigned char payloadtelemetre[] = {robotState.distanceTelemetreGauche, robotState.distanceTelemetreCentre, robotState.distanceTelemetreDroit};
+            UartEncodeAndSendMessage(0x0030, 3, payloadtelemetre);
+            __delay32(40000000);
 
         }
         //SendMessageDirect((unsigned char*) "bonjour", 7);
@@ -67,8 +69,8 @@ int main(void) {
 //            SendMessage(&c, 1);
 //        }
 //        __delay32(1000);
-        unsigned char payload[] = {'B', 'o', 'n', 'j', 'o', 'u', 'r'};
-        UartEncodeAndSendMessage(0x0080, 7, payload);
-        __delay32(40000000);
+//        unsigned char payload[] = {'B', 'o', 'n', 'j', 'o', 'u', 'r'};
+//        UartEncodeAndSendMessage(0x0080, 7, payload);
+//        __delay32(40000000);
     } // fin main
 }
