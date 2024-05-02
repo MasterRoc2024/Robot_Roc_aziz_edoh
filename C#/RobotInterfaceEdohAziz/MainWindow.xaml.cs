@@ -185,7 +185,85 @@ namespace RobotInterface
                     break;
             }
         }
+        public enum Command
+        {
+            text = 0x0080,
+            LED = 0x0020,
+            IR = 0x0030,
+            Vitesse = 0x0040
+        } 
 
+
+        void ProcessDecodedMessage(int msgFunction, int msgPayloadLength, byte[] msgPayload)
+        {
+            switch (msgFunction)
+            {
+                case (int)Command.text:
+
+                    for(int i = 0; i<msgPayloadLength; i++)
+                    {
+                        textBoxReception.Text += "0x" + msgPayload[i].ToString("X") + " ";
+                    }
+                    textBoxReception.Text += Environment.NewLine;
+                    textBoxReception.Text += "Texte reçu : " + Encoding.ASCII.GetString(msgPayload);
+                    textBoxReception.Text += Environment.NewLine;
+                    break;
+
+                case (int)Command.LED:
+
+                    for (int i = 0; i < msgPayloadLength; i++)
+                    {
+                        textBoxReception.Text += "0x" + msgPayload[i].ToString("X") + " ";
+                    }
+                    textBoxReception.Text += Environment.NewLine;
+                    textBoxReception.Text += "LED Number : " + msgPayload[0].ToString() + " ";
+                    if (msgPayload[1] == 1)
+                    {
+                        textBoxReception.Text += "( Allumée )";
+                        checkBoxLed1.IsChecked = true;
+                    }
+                    else
+                        textBoxReception.Text += "( éteinte )";
+                    textBoxReception.Text += Environment.NewLine;
+                    break;
+
+                case (int)Command.IR:
+
+                    for (int i = 0; i < msgPayloadLength; i++)
+                    {
+                        textBoxReception.Text += "0x" + msgPayload[i].ToString("X") + " ";
+                    }
+                    textBoxReception.Text += Environment.NewLine;
+                    textBoxReception.Text += "Télémètre Gauche : " + msgPayload[0].ToString() + Environment.NewLine;
+                    textBoxReception.Text += "Télémètre Centre : " + msgPayload[1].ToString() +  Environment.NewLine;
+                    textBoxReception.Text += "Télémètre Droit : " + msgPayload[2].ToString() + Environment.NewLine;
+                    textBoxReception.Text += Environment.NewLine;
+
+                    IR_Gauche.Content = msgPayload[0];
+                    IR_Centre.Content = msgPayload[1];
+                    IR_Droit.Content = msgPayload[2];
+                    break;
+
+                case (int)Command.Vitesse:
+
+                    for (int i = 0; i < msgPayloadLength; i++)
+                    {
+                        textBoxReception.Text += "0x" + msgPayload[i].ToString("X") + " ";
+                    }
+                    textBoxReception.Text += Environment.NewLine;
+                    textBoxReception.Text += "Moteur Gauche : " + msgPayload[0].ToString() + Environment.NewLine;
+                    textBoxReception.Text += "Moteur Droit : " + msgPayload[1].ToString() + Environment.NewLine;
+                    textBoxReception.Text += Environment.NewLine;
+
+
+                    Moteur_Gauche.Content = msgPayload[0];
+                    Moteur_Droit.Content = msgPayload[1];
+
+                    break;
+
+            }
+
+            
         void transmissiontexte(int msgfunction, int msgPayloadLength, byte[] msgPayload)
         {
             var encodemessage = "";
