@@ -26,7 +26,7 @@ namespace RobotInterface
     {
         private ExtendedSerialPort serialPort1;
         bool isRoyalBlue;
-        
+    
         Robot robot = new Robot();      // Instanciation de la classe robot
 
         public MainWindow()
@@ -186,17 +186,9 @@ namespace RobotInterface
             }
         }
 
-        void transmissiontexte(int msgfunction, int msgPayloadLength, byte[] msgPayload)
-        {
-            var encodemessage = "";
-            
-            encodemessage = UartEncodeAndSendMessage(0x0080, msgPayloadLength, Encoding.ASCII.GetBytes(msgPayload));         
-        }
+       
 
-        private string UartEncodeAndSendMessage(int v, int msgPayloadLength, object value)
-        {
-            throw new NotImplementedException();
-        }
+   
 
         private void ButtonEnvoyer_Click(object sender, RoutedEventArgs e)
         {
