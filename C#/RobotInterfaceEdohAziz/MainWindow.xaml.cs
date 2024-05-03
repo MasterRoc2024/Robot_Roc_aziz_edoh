@@ -1,22 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using ExtendedSerialPort_NS;
 using System.IO.Ports;
 using System.Windows.Threading;
-using System.Diagnostics.Tracing;
-using static RobotInterface.MainWindow;
+using KeyboardHook_NS;
 
 namespace RobotInterface
 {
@@ -46,6 +36,8 @@ namespace RobotInterface
             timerAffichage.Tick += TimerAffichage_Tick;
             timerAffichage.Start();
 
+            var _globalKeyboardHook = new GlobalKeyboardHook();
+            _globalKeyboardHook.KeyPressed += _globalKeyboardHook_KeyPressed;
 
         }
 
@@ -78,6 +70,36 @@ namespace RobotInterface
 
         DispatcherTimer timerAffichage;
 
+        private static void _globalKeyboardHook_KeyPressed(object? sender, KeyArgs e)
+        {
+            if (autoControlActivated == false)
+
+            {
+                switch (e.keyCode)
+                {
+                    case KeyCode.LEFT:
+                                            UartEncodeAndSendMessage(0x0051, 1, new byte[] {
+                    {byte)StateRobot.STATE_TOURNE_SUR_PLACE_GAUCHE });
+                                    break;
+                    case KeyCode.RIGHT:
+                                        UartEncodeAndSendMessage(0x0051, 1, new byte[] {
+                    (byte)StateRobot.STATE_TOURNE_SUR_PLACE_DROITE });
+                                        break;
+                                    case KeyCode.UP:
+                    UartEncodeAndSendMessage(0x0051, 1, new byte[]
+                    { (byte)StateRobot.STATE_AVANCE });
+                    break;
+                case KeyCode.DOWN:
+                    UartEncodeAndSendMessage(0x0051, 1, new byte[]
+                    { (byte)StateRobot.STATE_ARRET });
+                    break;
+                case KeyCode.PAGEDOWN:
+                    UartEncodeAndSendMessage(0x0051, 1, new byte[]
+                    { (byte)StateRobot.STATE_RECULE });
+                    break;
+                }
+            }
+        }
 
         byte CalculateChecksum(int msgFunction, int msgPayloadLength, byte[] msgPayload)
         {

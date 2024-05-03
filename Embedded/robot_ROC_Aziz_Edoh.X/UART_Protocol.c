@@ -1,6 +1,7 @@
 #include <xc.h>
 #include "UART_Protocol.h"
 #include"UART.h"
+#define MAX_PAYLOAD_SIZE 256
 
 unsigned char UartCalculateChecksum(int msgFunction,
 int msgPayloadLength, unsigned char* msgPayload)
@@ -42,9 +43,10 @@ void UartEncodeAndSendMessage(int msgFunction,int msgPayloadLength, unsigned cha
 unsigned char StateReception;
 unsigned char msgDecodedFunction = 0;
 int msgDecodedPayloadLength = 0;
+unsigned char msgDecodedPayload[MAX_PAYLOAD_SIZE];
 int msgDecodedPayloadIndex = 0;
 unsigned char receivedChecksum = 0;
-unsigned char msgDecodedPayload[msgDecodedPayloadLength];
+
 void UartDecodeMessage(unsigned char c)
 {
     //Fonction prenant en entree un octet et servant a reconstituer les trames
@@ -71,17 +73,21 @@ void UartDecodeMessage(unsigned char c)
         break;
         case PAYLOADLENGTH_LSB:
             msgDecodedPayloadLength |= c ;
-            if (msgDecodedPayloadLength == 0)
+            if (msgDecodedPayloadLength > MAX_PAYLOAD_SIZE){
+                StateReception = WAITING;
+            }
+            else if (msgDecodedPayloadLength == 0)
             {
                 StateReception = CHECKSUM;
             }
             else
             {
-                
+               msgDecodedPayloadIndex = 0;
                StateReception = PAYLOAD;
             }
         break;
         case PAYLOAD:
+            
             msgDecodedPayload[msgDecodedPayloadIndex] = c;
             msgDecodedPayloadIndex++;
             if(msgDecodedPayloadIndex >= msgDecodedPayloadLength){

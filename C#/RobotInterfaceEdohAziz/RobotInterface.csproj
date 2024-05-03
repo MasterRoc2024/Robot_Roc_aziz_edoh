@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\KeyboardHook\KeyboardHook.csproj" />
     <ProjectReference Include="C:\GitHub\Robot_Roc_aziz_edoh\C#\ExtendedSerialPort .NET6\ExtendedSerialPort\ExtendedSerialPort\ExtendedSerialPort.csproj" />
   </ItemGroup>
 

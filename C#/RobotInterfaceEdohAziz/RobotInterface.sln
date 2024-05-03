@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotInterface", "RobotInte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtendedSerialPort", "..\ExtendedSerialPort .NET6\ExtendedSerialPort\ExtendedSerialPort\ExtendedSerialPort.csproj", "{DA9EE931-D33D-4BDB-BF87-C04CE26D0A7A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyboardHook", "..\KeyboardHook\KeyboardHook.csproj", "{A35DEA55-8885-49A1-8F34-56FC4A30AE3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DA9EE931-D33D-4BDB-BF87-C04CE26D0A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA9EE931-D33D-4BDB-BF87-C04CE26D0A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA9EE931-D33D-4BDB-BF87-C04CE26D0A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35DEA55-8885-49A1-8F34-56FC4A30AE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35DEA55-8885-49A1-8F34-56FC4A30AE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35DEA55-8885-49A1-8F34-56FC4A30AE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35DEA55-8885-49A1-8F34-56FC4A30AE3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
