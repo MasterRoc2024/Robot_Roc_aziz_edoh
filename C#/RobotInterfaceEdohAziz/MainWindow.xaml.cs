@@ -55,11 +55,12 @@ namespace RobotInterface
         {
             while (robot.byteListReceived.Count >0)
             {
-               //var c = robot.byteListReceived.Dequeue();
+               var c = robot.byteListReceived.Dequeue();
                // textBoxReception.Text += "0x" + c.ToString("X2") + " ";
               //  textBoxReception.Text += (c) + Environment.NewLine;
                 //textBoxReception.Text += Encoding.ASCII.GetString(robot.byteListReceived.ToArray());
-               DecodeMessage(robot.byteListReceived.Dequeue());
+               DecodeMessage(c);
+          //     DecodeMessage(robot.byteListReceived.Dequeue());
 
                 
             }

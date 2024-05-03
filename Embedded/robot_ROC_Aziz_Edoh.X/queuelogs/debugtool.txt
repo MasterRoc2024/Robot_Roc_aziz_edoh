@@ -1,0 +1,1005 @@
+5632 1714730389708 XXXX 1714730389708, Thread 5632: XXXX 1714730389708, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730389709 XXXX 1714730389709, Thread 5632: XXXX 1714730389709, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730389808 XXXX 1714730389808, Thread 5632: XXXX 1714730389808, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730389810 XXXX 1714730389810, Thread 5632: XXXX 1714730389810, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730389910 XXXX 1714730389910, Thread 5632: XXXX 1714730389910, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730389912 XXXX 1714730389912, Thread 5632: XXXX 1714730389912, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730390010 XXXX 1714730390010, Thread 5632: XXXX 1714730390010, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730390012 XXXX 1714730390012, Thread 5632: XXXX 1714730390012, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730390111 XXXX 1714730390111, Thread 5632: XXXX 1714730390111, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730390114 XXXX 1714730390114, Thread 5632: XXXX 1714730390114, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730390214 XXXX 1714730390214, Thread 5632: XXXX 1714730390214, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730390217 XXXX 1714730390217, Thread 5632: XXXX 1714730390217, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730390315 XXXX 1714730390315, Thread 5632: XXXX 1714730390315, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730390317 XXXX 1714730390317, Thread 5632: XXXX 1714730390317, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730390416 XXXX 1714730390416, Thread 5632: XXXX 1714730390416, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730390419 XXXX 1714730390419, Thread 5632: XXXX 1714730390419, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730390517 XXXX 1714730390517, Thread 5632: XXXX 1714730390517, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730390520 XXXX 1714730390520, Thread 5632: XXXX 1714730390520, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730390618 XXXX 1714730390618, Thread 5632: XXXX 1714730390618, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730390621 XXXX 1714730390621, Thread 5632: XXXX 1714730390621, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730390719 XXXX 1714730390719, Thread 5632: XXXX 1714730390719, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730390722 XXXX 1714730390722, Thread 5632: XXXX 1714730390722, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730390819 XXXX 1714730390819, Thread 5632: XXXX 1714730390819, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730390822 XXXX 1714730390822, Thread 5632: XXXX 1714730390822, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730390920 XXXX 1714730390920, Thread 5632: XXXX 1714730390920, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730390922 XXXX 1714730390922, Thread 5632: XXXX 1714730390922, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730391022 XXXX 1714730391022, Thread 5632: XXXX 1714730391022, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730391024 XXXX 1714730391024, Thread 5632: XXXX 1714730391024, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730391123 XXXX 1714730391123, Thread 5632: XXXX 1714730391123, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730391125 XXXX 1714730391125, Thread 5632: XXXX 1714730391125, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730391223 XXXX 1714730391223, Thread 5632: XXXX 1714730391223, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730391225 XXXX 1714730391225, Thread 5632: XXXX 1714730391225, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730391323 XXXX 1714730391323, Thread 5632: XXXX 1714730391323, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730391325 XXXX 1714730391325, Thread 5632: XXXX 1714730391325, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730391423 XXXX 1714730391423, Thread 5632: XXXX 1714730391423, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730391425 XXXX 1714730391425, Thread 5632: XXXX 1714730391425, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730391525 XXXX 1714730391525, Thread 5632: XXXX 1714730391525, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730391526 XXXX 1714730391526, Thread 5632: XXXX 1714730391526, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730391625 XXXX 1714730391625, Thread 5632: XXXX 1714730391625, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730391626 XXXX 1714730391626, Thread 5632: XXXX 1714730391626, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730391725 XXXX 1714730391725, Thread 5632: XXXX 1714730391725, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730391727 XXXX 1714730391727, Thread 5632: XXXX 1714730391727, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730391827 XXXX 1714730391827, Thread 5632: XXXX 1714730391827, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730391829 XXXX 1714730391829, Thread 5632: XXXX 1714730391829, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730391929 XXXX 1714730391929, Thread 5632: XXXX 1714730391929, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730391931 XXXX 1714730391931, Thread 5632: XXXX 1714730391931, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730392030 XXXX 1714730392030, Thread 5632: XXXX 1714730392030, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730392033 XXXX 1714730392033, Thread 5632: XXXX 1714730392033, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730392132 XXXX 1714730392132, Thread 5632: XXXX 1714730392132, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730392134 XXXX 1714730392134, Thread 5632: XXXX 1714730392134, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730392234 XXXX 1714730392234, Thread 5632: XXXX 1714730392234, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730392236 XXXX 1714730392236, Thread 5632: XXXX 1714730392236, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730392334 XXXX 1714730392334, Thread 5632: XXXX 1714730392334, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730392336 XXXX 1714730392336, Thread 5632: XXXX 1714730392336, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730392435 XXXX 1714730392435, Thread 5632: XXXX 1714730392435, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730392438 XXXX 1714730392438, Thread 5632: XXXX 1714730392438, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730392536 XXXX 1714730392536, Thread 5632: XXXX 1714730392536, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730392538 XXXX 1714730392538, Thread 5632: XXXX 1714730392538, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730392638 XXXX 1714730392638, Thread 5632: XXXX 1714730392638, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730392640 XXXX 1714730392640, Thread 5632: XXXX 1714730392640, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730392738 XXXX 1714730392738, Thread 5632: XXXX 1714730392738, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730392741 XXXX 1714730392741, Thread 5632: XXXX 1714730392741, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730392840 XXXX 1714730392840, Thread 5632: XXXX 1714730392840, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730392843 XXXX 1714730392843, Thread 5632: XXXX 1714730392843, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730392941 XXXX 1714730392941, Thread 5632: XXXX 1714730392941, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730392944 XXXX 1714730392944, Thread 5632: XXXX 1714730392944, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730393042 XXXX 1714730393042, Thread 5632: XXXX 1714730393042, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730393044 XXXX 1714730393044, Thread 5632: XXXX 1714730393044, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730393143 XXXX 1714730393143, Thread 5632: XXXX 1714730393143, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730393146 XXXX 1714730393146, Thread 5632: XXXX 1714730393146, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730393244 XXXX 1714730393244, Thread 5632: XXXX 1714730393244, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730393246 XXXX 1714730393246, Thread 5632: XXXX 1714730393246, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730393346 XXXX 1714730393346, Thread 5632: XXXX 1714730393346, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730393348 XXXX 1714730393348, Thread 5632: XXXX 1714730393348, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730393447 XXXX 1714730393447, Thread 5632: XXXX 1714730393447, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730393450 XXXX 1714730393450, Thread 5632: XXXX 1714730393450, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730393549 XXXX 1714730393549, Thread 5632: XXXX 1714730393549, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730393552 XXXX 1714730393552, Thread 5632: XXXX 1714730393552, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730393651 XXXX 1714730393651, Thread 5632: XXXX 1714730393651, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730393653 XXXX 1714730393653, Thread 5632: XXXX 1714730393653, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730393752 XXXX 1714730393752, Thread 5632: XXXX 1714730393752, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730393755 XXXX 1714730393755, Thread 5632: XXXX 1714730393755, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730393852 XXXX 1714730393852, Thread 5632: XXXX 1714730393852, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730393855 XXXX 1714730393855, Thread 5632: XXXX 1714730393855, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730393953 XXXX 1714730393953, Thread 5632: XXXX 1714730393953, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730393956 XXXX 1714730393956, Thread 5632: XXXX 1714730393956, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730394055 XXXX 1714730394055, Thread 5632: XXXX 1714730394055, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730394057 XXXX 1714730394057, Thread 5632: XXXX 1714730394057, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730394156 XXXX 1714730394156, Thread 5632: XXXX 1714730394156, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730394159 XXXX 1714730394159, Thread 5632: XXXX 1714730394159, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730394256 XXXX 1714730394256, Thread 5632: XXXX 1714730394256, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730394259 XXXX 1714730394259, Thread 5632: XXXX 1714730394259, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730394358 XXXX 1714730394358, Thread 5632: XXXX 1714730394358, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730394360 XXXX 1714730394360, Thread 5632: XXXX 1714730394360, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730394460 XXXX 1714730394460, Thread 5632: XXXX 1714730394460, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730394462 XXXX 1714730394462, Thread 5632: XXXX 1714730394462, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730394562 XXXX 1714730394562, Thread 5632: XXXX 1714730394562, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730394564 XXXX 1714730394564, Thread 5632: XXXX 1714730394564, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730394663 XXXX 1714730394663, Thread 5632: XXXX 1714730394663, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730394666 XXXX 1714730394666, Thread 5632: XXXX 1714730394666, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730394765 XXXX 1714730394765, Thread 5632: XXXX 1714730394765, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730394768 XXXX 1714730394768, Thread 5632: XXXX 1714730394768, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730394868 XXXX 1714730394868, Thread 5632: XXXX 1714730394868, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730394870 XXXX 1714730394870, Thread 5632: XXXX 1714730394870, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730394970 XXXX 1714730394970, Thread 5632: XXXX 1714730394970, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730394972 XXXX 1714730394972, Thread 5632: XXXX 1714730394972, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730395071 XXXX 1714730395071, Thread 5632: XXXX 1714730395071, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730395074 XXXX 1714730395074, Thread 5632: XXXX 1714730395074, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730395174 XXXX 1714730395174, Thread 5632: XXXX 1714730395174, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730395175 XXXX 1714730395175, Thread 5632: XXXX 1714730395175, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730395275 XXXX 1714730395275, Thread 5632: XXXX 1714730395275, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730395276 XXXX 1714730395276, Thread 5632: XXXX 1714730395276, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730395375 XXXX 1714730395375, Thread 5632: XXXX 1714730395375, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730395378 XXXX 1714730395378, Thread 5632: XXXX 1714730395378, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730395476 XXXX 1714730395476, Thread 5632: XXXX 1714730395476, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730395479 XXXX 1714730395479, Thread 5632: XXXX 1714730395479, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730395577 XXXX 1714730395577, Thread 5632: XXXX 1714730395577, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730395580 XXXX 1714730395580, Thread 5632: XXXX 1714730395580, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730395679 XXXX 1714730395679, Thread 5632: XXXX 1714730395679, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730395681 XXXX 1714730395681, Thread 5632: XXXX 1714730395681, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730395780 XXXX 1714730395780, Thread 5632: XXXX 1714730395780, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730395783 XXXX 1714730395783, Thread 5632: XXXX 1714730395783, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730395883 XXXX 1714730395883, Thread 5632: XXXX 1714730395883, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730395885 XXXX 1714730395885, Thread 5632: XXXX 1714730395885, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730395985 XXXX 1714730395985, Thread 5632: XXXX 1714730395985, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730395987 XXXX 1714730395987, Thread 5632: XXXX 1714730395987, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730396086 XXXX 1714730396086, Thread 5632: XXXX 1714730396086, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730396089 XXXX 1714730396089, Thread 5632: XXXX 1714730396089, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730396187 XXXX 1714730396187, Thread 5632: XXXX 1714730396187, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730396190 XXXX 1714730396190, Thread 5632: XXXX 1714730396190, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730396288 XXXX 1714730396288, Thread 5632: XXXX 1714730396288, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730396291 XXXX 1714730396291, Thread 5632: XXXX 1714730396291, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730396390 XXXX 1714730396390, Thread 5632: XXXX 1714730396390, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730396393 XXXX 1714730396393, Thread 5632: XXXX 1714730396393, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730396492 XXXX 1714730396492, Thread 5632: XXXX 1714730396492, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730396494 XXXX 1714730396494, Thread 5632: XXXX 1714730396494, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730396592 XXXX 1714730396592, Thread 5632: XXXX 1714730396592, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730396595 XXXX 1714730396595, Thread 5632: XXXX 1714730396595, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730396695 XXXX 1714730396695, Thread 5632: XXXX 1714730396695, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730396697 XXXX 1714730396697, Thread 5632: XXXX 1714730396697, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730396797 XXXX 1714730396797, Thread 5632: XXXX 1714730396797, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730396799 XXXX 1714730396799, Thread 5632: XXXX 1714730396799, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730396900 XXXX 1714730396900, Thread 5632: XXXX 1714730396900, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730396902 XXXX 1714730396902, Thread 5632: XXXX 1714730396902, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730397002 XXXX 1714730397002, Thread 5632: XXXX 1714730397002, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730397004 XXXX 1714730397004, Thread 5632: XXXX 1714730397004, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730397103 XXXX 1714730397103, Thread 5632: XXXX 1714730397103, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730397105 XXXX 1714730397105, Thread 5632: XXXX 1714730397105, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730397203 XXXX 1714730397203, Thread 5632: XXXX 1714730397203, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730397205 XXXX 1714730397205, Thread 5632: XXXX 1714730397205, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730397305 XXXX 1714730397305, Thread 5632: XXXX 1714730397305, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730397307 XXXX 1714730397307, Thread 5632: XXXX 1714730397307, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730397405 XXXX 1714730397405, Thread 5632: XXXX 1714730397405, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730397408 XXXX 1714730397408, Thread 5632: XXXX 1714730397408, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730397507 XXXX 1714730397507, Thread 5632: XXXX 1714730397507, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730397510 XXXX 1714730397510, Thread 5632: XXXX 1714730397510, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730397609 XXXX 1714730397609, Thread 5632: XXXX 1714730397609, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730397611 XXXX 1714730397611, Thread 5632: XXXX 1714730397611, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730397710 XXXX 1714730397710, Thread 5632: XXXX 1714730397710, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730397712 XXXX 1714730397712, Thread 5632: XXXX 1714730397712, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730397812 XXXX 1714730397812, Thread 5632: XXXX 1714730397812, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730397815 XXXX 1714730397815, Thread 5632: XXXX 1714730397815, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730397913 XXXX 1714730397913, Thread 5632: XXXX 1714730397913, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730397916 XXXX 1714730397916, Thread 5632: XXXX 1714730397916, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730398014 XXXX 1714730398014, Thread 5632: XXXX 1714730398014, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730398017 XXXX 1714730398017, Thread 5632: XXXX 1714730398017, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730398117 XXXX 1714730398117, Thread 5632: XXXX 1714730398117, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730398119 XXXX 1714730398119, Thread 5632: XXXX 1714730398119, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730398218 XXXX 1714730398218, Thread 5632: XXXX 1714730398218, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730398220 XXXX 1714730398220, Thread 5632: XXXX 1714730398220, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730398319 XXXX 1714730398319, Thread 5632: XXXX 1714730398319, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730398321 XXXX 1714730398321, Thread 5632: XXXX 1714730398321, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730398421 XXXX 1714730398421, Thread 5632: XXXX 1714730398421, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730398423 XXXX 1714730398423, Thread 5632: XXXX 1714730398423, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730398523 XXXX 1714730398523, Thread 5632: XXXX 1714730398523, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730398525 XXXX 1714730398525, Thread 5632: XXXX 1714730398525, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730398624 XXXX 1714730398624, Thread 5632: XXXX 1714730398624, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730398626 XXXX 1714730398626, Thread 5632: XXXX 1714730398626, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730398726 XXXX 1714730398726, Thread 5632: XXXX 1714730398726, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730398728 XXXX 1714730398728, Thread 5632: XXXX 1714730398728, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730398826 XXXX 1714730398826, Thread 5632: XXXX 1714730398826, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730398829 XXXX 1714730398829, Thread 5632: XXXX 1714730398829, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730398929 XXXX 1714730398929, Thread 5632: XXXX 1714730398929, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730398931 XXXX 1714730398931, Thread 5632: XXXX 1714730398931, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730399030 XXXX 1714730399030, Thread 5632: XXXX 1714730399030, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730399033 XXXX 1714730399033, Thread 5632: XXXX 1714730399033, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730399132 XXXX 1714730399132, Thread 5632: XXXX 1714730399132, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730399134 XXXX 1714730399134, Thread 5632: XXXX 1714730399134, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730399234 XXXX 1714730399234, Thread 5632: XXXX 1714730399234, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730399236 XXXX 1714730399236, Thread 5632: XXXX 1714730399236, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730399336 XXXX 1714730399336, Thread 5632: XXXX 1714730399336, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730399338 XXXX 1714730399338, Thread 5632: XXXX 1714730399338, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730399437 XXXX 1714730399437, Thread 5632: XXXX 1714730399437, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730399439 XXXX 1714730399439, Thread 5632: XXXX 1714730399439, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730399539 XXXX 1714730399539, Thread 5632: XXXX 1714730399539, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730399541 XXXX 1714730399541, Thread 5632: XXXX 1714730399541, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730399640 XXXX 1714730399640, Thread 5632: XXXX 1714730399640, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730399642 XXXX 1714730399642, Thread 5632: XXXX 1714730399642, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730399742 XXXX 1714730399742, Thread 5632: XXXX 1714730399742, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730399744 XXXX 1714730399744, Thread 5632: XXXX 1714730399744, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730399843 XXXX 1714730399843, Thread 5632: XXXX 1714730399843, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730399846 XXXX 1714730399846, Thread 5632: XXXX 1714730399846, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730399945 XXXX 1714730399945, Thread 5632: XXXX 1714730399945, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730399948 XXXX 1714730399948, Thread 5632: XXXX 1714730399948, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730400045 XXXX 1714730400045, Thread 5632: XXXX 1714730400045, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730400048 XXXX 1714730400048, Thread 5632: XXXX 1714730400048, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730400146 XXXX 1714730400146, Thread 5632: XXXX 1714730400146, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730400148 XXXX 1714730400148, Thread 5632: XXXX 1714730400148, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730400246 XXXX 1714730400246, Thread 5632: XXXX 1714730400246, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730400248 XXXX 1714730400248, Thread 5632: XXXX 1714730400248, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730400347 XXXX 1714730400347, Thread 5632: XXXX 1714730400347, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730400350 XXXX 1714730400350, Thread 5632: XXXX 1714730400350, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730400450 XXXX 1714730400450, Thread 5632: XXXX 1714730400450, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730400452 XXXX 1714730400452, Thread 5632: XXXX 1714730400452, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730400552 XXXX 1714730400552, Thread 5632: XXXX 1714730400552, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730400554 XXXX 1714730400554, Thread 5632: XXXX 1714730400554, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730400654 XXXX 1714730400654, Thread 5632: XXXX 1714730400654, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730400656 XXXX 1714730400656, Thread 5632: XXXX 1714730400656, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730400755 XXXX 1714730400755, Thread 5632: XXXX 1714730400755, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730400757 XXXX 1714730400757, Thread 5632: XXXX 1714730400757, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730400857 XXXX 1714730400857, Thread 5632: XXXX 1714730400857, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730400859 XXXX 1714730400859, Thread 5632: XXXX 1714730400859, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730400958 XXXX 1714730400958, Thread 5632: XXXX 1714730400958, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730400960 XXXX 1714730400960, Thread 5632: XXXX 1714730400960, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730401059 XXXX 1714730401059, Thread 5632: XXXX 1714730401059, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730401061 XXXX 1714730401061, Thread 5632: XXXX 1714730401061, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730401159 XXXX 1714730401159, Thread 5632: XXXX 1714730401159, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730401161 XXXX 1714730401161, Thread 5632: XXXX 1714730401161, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730401260 XXXX 1714730401260, Thread 5632: XXXX 1714730401260, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730401263 XXXX 1714730401263, Thread 5632: XXXX 1714730401263, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730401361 XXXX 1714730401361, Thread 5632: XXXX 1714730401361, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730401364 XXXX 1714730401364, Thread 5632: XXXX 1714730401364, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730401462 XXXX 1714730401462, Thread 5632: XXXX 1714730401462, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730401465 XXXX 1714730401465, Thread 5632: XXXX 1714730401465, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730401562 XXXX 1714730401562, Thread 5632: XXXX 1714730401562, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730401564 XXXX 1714730401564, Thread 5632: XXXX 1714730401564, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730401663 XXXX 1714730401663, Thread 5632: XXXX 1714730401663, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730401665 XXXX 1714730401665, Thread 5632: XXXX 1714730401665, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730401763 XXXX 1714730401763, Thread 5632: XXXX 1714730401763, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730401764 XXXX 1714730401764, Thread 5632: XXXX 1714730401764, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730401865 XXXX 1714730401865, Thread 5632: XXXX 1714730401865, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730401867 XXXX 1714730401867, Thread 5632: XXXX 1714730401867, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730401965 XXXX 1714730401965, Thread 5632: XXXX 1714730401965, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730401966 XXXX 1714730401966, Thread 5632: XXXX 1714730401966, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730402066 XXXX 1714730402066, Thread 5632: XXXX 1714730402066, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730402067 XXXX 1714730402067, Thread 5632: XXXX 1714730402067, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730402166 XXXX 1714730402166, Thread 5632: XXXX 1714730402166, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730402168 XXXX 1714730402168, Thread 5632: XXXX 1714730402168, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730402268 XXXX 1714730402268, Thread 5632: XXXX 1714730402268, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730402270 XXXX 1714730402270, Thread 5632: XXXX 1714730402270, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730402368 XXXX 1714730402368, Thread 5632: XXXX 1714730402368, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730402370 XXXX 1714730402370, Thread 5632: XXXX 1714730402370, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730402468 XXXX 1714730402468, Thread 5632: XXXX 1714730402468, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730402470 XXXX 1714730402470, Thread 5632: XXXX 1714730402470, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730402570 XXXX 1714730402570, Thread 5632: XXXX 1714730402570, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730402573 XXXX 1714730402573, Thread 5632: XXXX 1714730402573, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730402671 XXXX 1714730402671, Thread 5632: XXXX 1714730402671, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730402674 XXXX 1714730402674, Thread 5632: XXXX 1714730402674, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730402772 XXXX 1714730402772, Thread 5632: XXXX 1714730402772, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730402775 XXXX 1714730402775, Thread 5632: XXXX 1714730402775, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730402872 XXXX 1714730402872, Thread 5632: XXXX 1714730402872, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730402873 XXXX 1714730402873, Thread 5632: XXXX 1714730402873, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730402973 XXXX 1714730402973, Thread 5632: XXXX 1714730402973, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730402976 XXXX 1714730402976, Thread 5632: XXXX 1714730402976, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730403074 XXXX 1714730403074, Thread 5632: XXXX 1714730403074, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730403076 XXXX 1714730403076, Thread 5632: XXXX 1714730403076, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730403176 XXXX 1714730403176, Thread 5632: XXXX 1714730403176, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730403178 XXXX 1714730403178, Thread 5632: XXXX 1714730403178, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730403277 XXXX 1714730403277, Thread 5632: XXXX 1714730403277, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730403280 XXXX 1714730403280, Thread 5632: XXXX 1714730403280, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730403377 XXXX 1714730403377, Thread 5632: XXXX 1714730403377, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730403378 XXXX 1714730403378, Thread 5632: XXXX 1714730403378, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730403479 XXXX 1714730403479, Thread 5632: XXXX 1714730403479, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730403481 XXXX 1714730403481, Thread 5632: XXXX 1714730403481, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730403580 XXXX 1714730403580, Thread 5632: XXXX 1714730403580, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730403583 XXXX 1714730403583, Thread 5632: XXXX 1714730403583, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730403682 XXXX 1714730403682, Thread 5632: XXXX 1714730403682, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730403685 XXXX 1714730403685, Thread 5632: XXXX 1714730403685, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730403782 XXXX 1714730403782, Thread 5632: XXXX 1714730403782, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730403783 XXXX 1714730403783, Thread 5632: XXXX 1714730403783, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730403882 XXXX 1714730403882, Thread 5632: XXXX 1714730403882, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730403884 XXXX 1714730403884, Thread 5632: XXXX 1714730403884, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730403983 XXXX 1714730403983, Thread 5632: XXXX 1714730403983, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730403986 XXXX 1714730403986, Thread 5632: XXXX 1714730403986, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730404085 XXXX 1714730404085, Thread 5632: XXXX 1714730404085, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730404088 XXXX 1714730404088, Thread 5632: XXXX 1714730404088, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730404185 XXXX 1714730404185, Thread 5632: XXXX 1714730404185, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730404186 XXXX 1714730404186, Thread 5632: XXXX 1714730404186, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730404285 XXXX 1714730404285, Thread 5632: XXXX 1714730404285, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730404287 XXXX 1714730404287, Thread 5632: XXXX 1714730404287, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730404386 XXXX 1714730404386, Thread 5632: XXXX 1714730404386, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730404389 XXXX 1714730404389, Thread 5632: XXXX 1714730404389, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730404489 XXXX 1714730404489, Thread 5632: XXXX 1714730404488, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730404491 XXXX 1714730404491, Thread 5632: XXXX 1714730404491, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730404591 XXXX 1714730404591, Thread 5632: XXXX 1714730404591, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730404594 XXXX 1714730404594, Thread 5632: XXXX 1714730404594, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730404692 XXXX 1714730404692, Thread 5632: XXXX 1714730404692, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730404694 XXXX 1714730404694, Thread 5632: XXXX 1714730404694, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730404793 XXXX 1714730404793, Thread 5632: XXXX 1714730404793, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730404794 XXXX 1714730404794, Thread 5632: XXXX 1714730404794, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730404893 XXXX 1714730404893, Thread 5632: XXXX 1714730404893, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730404896 XXXX 1714730404896, Thread 5632: XXXX 1714730404896, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730404994 XXXX 1714730404994, Thread 5632: XXXX 1714730404994, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730404997 XXXX 1714730404997, Thread 5632: XXXX 1714730404997, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730405095 XXXX 1714730405095, Thread 5632: XXXX 1714730405095, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730405098 XXXX 1714730405098, Thread 5632: XXXX 1714730405098, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730405197 XXXX 1714730405197, Thread 5632: XXXX 1714730405197, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730405200 XXXX 1714730405200, Thread 5632: XXXX 1714730405200, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730405298 XXXX 1714730405298, Thread 5632: XXXX 1714730405298, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730405301 XXXX 1714730405301, Thread 5632: XXXX 1714730405301, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730405398 XXXX 1714730405398, Thread 5632: XXXX 1714730405398, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730405400 XXXX 1714730405400, Thread 5632: XXXX 1714730405400, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730405498 XXXX 1714730405498, Thread 5632: XXXX 1714730405498, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730405500 XXXX 1714730405500, Thread 5632: XXXX 1714730405500, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730405600 XXXX 1714730405600, Thread 5632: XXXX 1714730405600, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730405602 XXXX 1714730405602, Thread 5632: XXXX 1714730405602, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730405701 XXXX 1714730405701, Thread 5632: XXXX 1714730405701, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730405704 XXXX 1714730405704, Thread 5632: XXXX 1714730405704, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730405802 XXXX 1714730405802, Thread 5632: XXXX 1714730405802, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730405804 XXXX 1714730405804, Thread 5632: XXXX 1714730405804, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730405904 XXXX 1714730405904, Thread 5632: XXXX 1714730405904, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730405907 XXXX 1714730405907, Thread 5632: XXXX 1714730405907, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730406005 XXXX 1714730406005, Thread 5632: XXXX 1714730406005, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730406008 XXXX 1714730406008, Thread 5632: XXXX 1714730406008, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730406105 XXXX 1714730406105, Thread 5632: XXXX 1714730406105, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730406107 XXXX 1714730406107, Thread 5632: XXXX 1714730406107, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730406206 XXXX 1714730406206, Thread 5632: XXXX 1714730406206, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730406207 XXXX 1714730406207, Thread 5632: XXXX 1714730406207, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730406307 XXXX 1714730406307, Thread 5632: XXXX 1714730406307, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730406309 XXXX 1714730406309, Thread 5632: XXXX 1714730406309, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730406410 XXXX 1714730406410, Thread 5632: XXXX 1714730406410, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730406412 XXXX 1714730406412, Thread 5632: XXXX 1714730406412, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730406512 XXXX 1714730406512, Thread 5632: XXXX 1714730406512, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730406515 XXXX 1714730406515, Thread 5632: XXXX 1714730406515, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730406614 XXXX 1714730406614, Thread 5632: XXXX 1714730406614, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730406617 XXXX 1714730406617, Thread 5632: XXXX 1714730406617, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730406716 XXXX 1714730406716, Thread 5632: XXXX 1714730406716, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730406719 XXXX 1714730406719, Thread 5632: XXXX 1714730406719, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730406817 XXXX 1714730406816, Thread 5632: XXXX 1714730406816, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730406820 XXXX 1714730406820, Thread 5632: XXXX 1714730406820, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730406918 XXXX 1714730406918, Thread 5632: XXXX 1714730406918, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730406921 XXXX 1714730406921, Thread 5632: XXXX 1714730406921, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730407020 XXXX 1714730407020, Thread 5632: XXXX 1714730407020, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730407023 XXXX 1714730407023, Thread 5632: XXXX 1714730407023, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730407122 XXXX 1714730407122, Thread 5632: XXXX 1714730407122, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730407125 XXXX 1714730407125, Thread 5632: XXXX 1714730407125, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730407224 XXXX 1714730407224, Thread 5632: XXXX 1714730407224, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730407226 XXXX 1714730407226, Thread 5632: XXXX 1714730407226, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730407325 XXXX 1714730407325, Thread 5632: XXXX 1714730407325, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730407327 XXXX 1714730407327, Thread 5632: XXXX 1714730407327, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730407425 XXXX 1714730407425, Thread 5632: XXXX 1714730407425, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730407428 XXXX 1714730407428, Thread 5632: XXXX 1714730407428, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730407526 XXXX 1714730407526, Thread 5632: XXXX 1714730407526, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730407529 XXXX 1714730407529, Thread 5632: XXXX 1714730407529, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730407628 XXXX 1714730407628, Thread 5632: XXXX 1714730407628, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730407631 XXXX 1714730407631, Thread 5632: XXXX 1714730407631, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730407729 XXXX 1714730407729, Thread 5632: XXXX 1714730407729, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730407732 XXXX 1714730407732, Thread 5632: XXXX 1714730407732, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730407830 XXXX 1714730407830, Thread 5632: XXXX 1714730407830, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730407832 XXXX 1714730407832, Thread 5632: XXXX 1714730407832, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730407933 XXXX 1714730407933, Thread 5632: XXXX 1714730407933, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730407935 XXXX 1714730407935, Thread 5632: XXXX 1714730407935, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730408034 XXXX 1714730408034, Thread 5632: XXXX 1714730408034, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730408037 XXXX 1714730408037, Thread 5632: XXXX 1714730408037, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730408135 XXXX 1714730408135, Thread 5632: XXXX 1714730408135, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730408138 XXXX 1714730408138, Thread 5632: XXXX 1714730408138, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730408236 XXXX 1714730408236, Thread 5632: XXXX 1714730408236, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730408239 XXXX 1714730408239, Thread 5632: XXXX 1714730408239, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730408337 XXXX 1714730408337, Thread 5632: XXXX 1714730408337, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730408340 XXXX 1714730408340, Thread 5632: XXXX 1714730408340, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730408438 XXXX 1714730408438, Thread 5632: XXXX 1714730408438, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730408441 XXXX 1714730408441, Thread 5632: XXXX 1714730408441, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730408539 XXXX 1714730408539, Thread 5632: XXXX 1714730408539, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730408542 XXXX 1714730408542, Thread 5632: XXXX 1714730408542, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730408640 XXXX 1714730408640, Thread 5632: XXXX 1714730408640, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730408643 XXXX 1714730408643, Thread 5632: XXXX 1714730408643, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730408741 XXXX 1714730408741, Thread 5632: XXXX 1714730408741, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730408744 XXXX 1714730408744, Thread 5632: XXXX 1714730408744, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730408844 XXXX 1714730408844, Thread 5632: XXXX 1714730408844, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730408847 XXXX 1714730408847, Thread 5632: XXXX 1714730408847, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730408945 XXXX 1714730408945, Thread 5632: XXXX 1714730408945, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730408948 XXXX 1714730408948, Thread 5632: XXXX 1714730408948, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730409046 XXXX 1714730409046, Thread 5632: XXXX 1714730409046, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730409049 XXXX 1714730409049, Thread 5632: XXXX 1714730409049, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730409147 XXXX 1714730409147, Thread 5632: XXXX 1714730409147, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730409150 XXXX 1714730409150, Thread 5632: XXXX 1714730409150, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730409248 XXXX 1714730409248, Thread 5632: XXXX 1714730409248, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730409251 XXXX 1714730409251, Thread 5632: XXXX 1714730409251, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730409349 XXXX 1714730409349, Thread 5632: XXXX 1714730409349, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730409352 XXXX 1714730409352, Thread 5632: XXXX 1714730409352, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730409450 XXXX 1714730409450, Thread 5632: XXXX 1714730409450, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730409453 XXXX 1714730409453, Thread 5632: XXXX 1714730409453, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730409551 XXXX 1714730409551, Thread 5632: XXXX 1714730409551, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730409553 XXXX 1714730409553, Thread 5632: XXXX 1714730409553, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730409652 XXXX 1714730409652, Thread 5632: XXXX 1714730409652, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730409655 XXXX 1714730409655, Thread 5632: XXXX 1714730409655, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730409753 XXXX 1714730409753, Thread 5632: XXXX 1714730409753, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730409756 XXXX 1714730409756, Thread 5632: XXXX 1714730409756, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730409854 XXXX 1714730409854, Thread 5632: XXXX 1714730409854, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730409857 XXXX 1714730409857, Thread 5632: XXXX 1714730409857, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730409956 XXXX 1714730409956, Thread 5632: XXXX 1714730409956, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730409958 XXXX 1714730409958, Thread 5632: XXXX 1714730409958, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730410058 XXXX 1714730410058, Thread 5632: XXXX 1714730410058, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730410060 XXXX 1714730410060, Thread 5632: XXXX 1714730410060, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730410159 XXXX 1714730410159, Thread 5632: XXXX 1714730410159, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730410161 XXXX 1714730410161, Thread 5632: XXXX 1714730410161, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730410260 XXXX 1714730410260, Thread 5632: XXXX 1714730410260, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730410263 XXXX 1714730410263, Thread 5632: XXXX 1714730410263, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730410361 XXXX 1714730410361, Thread 5632: XXXX 1714730410361, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730410364 XXXX 1714730410364, Thread 5632: XXXX 1714730410364, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730410462 XXXX 1714730410462, Thread 5632: XXXX 1714730410462, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730410465 XXXX 1714730410465, Thread 5632: XXXX 1714730410465, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730410564 XXXX 1714730410564, Thread 5632: XXXX 1714730410564, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730410566 XXXX 1714730410566, Thread 5632: XXXX 1714730410566, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730410665 XXXX 1714730410665, Thread 5632: XXXX 1714730410665, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730410668 XXXX 1714730410668, Thread 5632: XXXX 1714730410668, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730410766 XXXX 1714730410766, Thread 5632: XXXX 1714730410766, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730410769 XXXX 1714730410769, Thread 5632: XXXX 1714730410769, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730410867 XXXX 1714730410867, Thread 5632: XXXX 1714730410867, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730410870 XXXX 1714730410870, Thread 5632: XXXX 1714730410870, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730410968 XXXX 1714730410968, Thread 5632: XXXX 1714730410968, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730410971 XXXX 1714730410971, Thread 5632: XXXX 1714730410971, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730411070 XXXX 1714730411070, Thread 5632: XXXX 1714730411070, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730411072 XXXX 1714730411072, Thread 5632: XXXX 1714730411072, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730411171 XXXX 1714730411171, Thread 5632: XXXX 1714730411171, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730411173 XXXX 1714730411173, Thread 5632: XXXX 1714730411173, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730411274 XXXX 1714730411274, Thread 5632: XXXX 1714730411274, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730411276 XXXX 1714730411276, Thread 5632: XXXX 1714730411276, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730411375 XXXX 1714730411375, Thread 5632: XXXX 1714730411375, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730411378 XXXX 1714730411378, Thread 5632: XXXX 1714730411378, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730411475 XXXX 1714730411475, Thread 5632: XXXX 1714730411475, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730411478 XXXX 1714730411478, Thread 5632: XXXX 1714730411478, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730411576 XXXX 1714730411576, Thread 5632: XXXX 1714730411576, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730411579 XXXX 1714730411579, Thread 5632: XXXX 1714730411579, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730411677 XXXX 1714730411677, Thread 5632: XXXX 1714730411677, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730411678 XXXX 1714730411678, Thread 5632: XXXX 1714730411678, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730411778 XXXX 1714730411778, Thread 5632: XXXX 1714730411778, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730411781 XXXX 1714730411781, Thread 5632: XXXX 1714730411781, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730411880 XXXX 1714730411880, Thread 5632: XXXX 1714730411880, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730411883 XXXX 1714730411883, Thread 5632: XXXX 1714730411883, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730411981 XXXX 1714730411981, Thread 5632: XXXX 1714730411981, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730411984 XXXX 1714730411984, Thread 5632: XXXX 1714730411984, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730412082 XXXX 1714730412082, Thread 5632: XXXX 1714730412082, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730412084 XXXX 1714730412084, Thread 5632: XXXX 1714730412084, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730412183 XXXX 1714730412183, Thread 5632: XXXX 1714730412183, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730412185 XXXX 1714730412185, Thread 5632: XXXX 1714730412185, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730412284 XXXX 1714730412284, Thread 5632: XXXX 1714730412284, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730412287 XXXX 1714730412287, Thread 5632: XXXX 1714730412287, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730412385 XXXX 1714730412385, Thread 5632: XXXX 1714730412385, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730412388 XXXX 1714730412388, Thread 5632: XXXX 1714730412388, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730412487 XXXX 1714730412487, Thread 5632: XXXX 1714730412487, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730412489 XXXX 1714730412489, Thread 5632: XXXX 1714730412489, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730412586 XXXX 1714730412586, Thread 5632: XXXX 1714730412586, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730412588 XXXX 1714730412588, Thread 5632: XXXX 1714730412588, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730412689 XXXX 1714730412689, Thread 5632: XXXX 1714730412689, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730412691 XXXX 1714730412691, Thread 5632: XXXX 1714730412691, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730412790 XXXX 1714730412790, Thread 5632: XXXX 1714730412790, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730412793 XXXX 1714730412793, Thread 5632: XXXX 1714730412793, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730412891 XXXX 1714730412891, Thread 5632: XXXX 1714730412891, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730412894 XXXX 1714730412894, Thread 5632: XXXX 1714730412894, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730412993 XXXX 1714730412993, Thread 5632: XXXX 1714730412993, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730412995 XXXX 1714730412995, Thread 5632: XXXX 1714730412995, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730413094 XXXX 1714730413094, Thread 5632: XXXX 1714730413094, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730413097 XXXX 1714730413097, Thread 5632: XXXX 1714730413097, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730413195 XXXX 1714730413195, Thread 5632: XXXX 1714730413195, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730413198 XXXX 1714730413198, Thread 5632: XXXX 1714730413198, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730413296 XXXX 1714730413296, Thread 5632: XXXX 1714730413296, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730413299 XXXX 1714730413299, Thread 5632: XXXX 1714730413299, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730413397 XXXX 1714730413397, Thread 5632: XXXX 1714730413397, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730413400 XXXX 1714730413400, Thread 5632: XXXX 1714730413400, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730413498 XXXX 1714730413498, Thread 5632: XXXX 1714730413498, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730413501 XXXX 1714730413501, Thread 5632: XXXX 1714730413501, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730413599 XXXX 1714730413599, Thread 5632: XXXX 1714730413599, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730413602 XXXX 1714730413602, Thread 5632: XXXX 1714730413602, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730413700 XXXX 1714730413700, Thread 5632: XXXX 1714730413700, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730413703 XXXX 1714730413703, Thread 5632: XXXX 1714730413703, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730413801 XXXX 1714730413801, Thread 5632: XXXX 1714730413801, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730413804 XXXX 1714730413804, Thread 5632: XXXX 1714730413804, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730413902 XXXX 1714730413902, Thread 5632: XXXX 1714730413902, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730413905 XXXX 1714730413905, Thread 5632: XXXX 1714730413905, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730414003 XXXX 1714730414003, Thread 5632: XXXX 1714730414003, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730414006 XXXX 1714730414006, Thread 5632: XXXX 1714730414006, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730414105 XXXX 1714730414105, Thread 5632: XXXX 1714730414105, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730414107 XXXX 1714730414107, Thread 5632: XXXX 1714730414107, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730414206 XXXX 1714730414206, Thread 5632: XXXX 1714730414206, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730414208 XXXX 1714730414208, Thread 5632: XXXX 1714730414208, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730414307 XXXX 1714730414307, Thread 5632: XXXX 1714730414307, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730414310 XXXX 1714730414310, Thread 5632: XXXX 1714730414310, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730414408 XXXX 1714730414408, Thread 5632: XXXX 1714730414408, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730414410 XXXX 1714730414410, Thread 5632: XXXX 1714730414410, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730414509 XXXX 1714730414509, Thread 5632: XXXX 1714730414509, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730414512 XXXX 1714730414512, Thread 5632: XXXX 1714730414512, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730414610 XXXX 1714730414610, Thread 5632: XXXX 1714730414610, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730414612 XXXX 1714730414612, Thread 5632: XXXX 1714730414612, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730414711 XXXX 1714730414711, Thread 5632: XXXX 1714730414711, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730414714 XXXX 1714730414714, Thread 5632: XXXX 1714730414714, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730414814 XXXX 1714730414814, Thread 5632: XXXX 1714730414814, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730414816 XXXX 1714730414816, Thread 5632: XXXX 1714730414816, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730414915 XXXX 1714730414915, Thread 5632: XXXX 1714730414915, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730414918 XXXX 1714730414918, Thread 5632: XXXX 1714730414918, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730415017 XXXX 1714730415017, Thread 5632: XXXX 1714730415017, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730415019 XXXX 1714730415019, Thread 5632: XXXX 1714730415019, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730415118 XXXX 1714730415118, Thread 5632: XXXX 1714730415118, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730415120 XXXX 1714730415120, Thread 5632: XXXX 1714730415120, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730415219 XXXX 1714730415219, Thread 5632: XXXX 1714730415219, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730415222 XXXX 1714730415222, Thread 5632: XXXX 1714730415222, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730415322 XXXX 1714730415322, Thread 5632: XXXX 1714730415322, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730415324 XXXX 1714730415324, Thread 5632: XXXX 1714730415324, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730415424 XXXX 1714730415424, Thread 5632: XXXX 1714730415424, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730415426 XXXX 1714730415426, Thread 5632: XXXX 1714730415426, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730415525 XXXX 1714730415525, Thread 5632: XXXX 1714730415525, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730415527 XXXX 1714730415527, Thread 5632: XXXX 1714730415527, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730415626 XXXX 1714730415626, Thread 5632: XXXX 1714730415626, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730415628 XXXX 1714730415628, Thread 5632: XXXX 1714730415628, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730415727 XXXX 1714730415727, Thread 5632: XXXX 1714730415727, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730415729 XXXX 1714730415729, Thread 5632: XXXX 1714730415729, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730415829 XXXX 1714730415829, Thread 5632: XXXX 1714730415829, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730415831 XXXX 1714730415831, Thread 5632: XXXX 1714730415831, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730415931 XXXX 1714730415931, Thread 5632: XXXX 1714730415931, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730415934 XXXX 1714730415934, Thread 5632: XXXX 1714730415934, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730416034 XXXX 1714730416034, Thread 5632: XXXX 1714730416034, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730416037 XXXX 1714730416037, Thread 5632: XXXX 1714730416037, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730416135 XXXX 1714730416135, Thread 5632: XXXX 1714730416135, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730416138 XXXX 1714730416138, Thread 5632: XXXX 1714730416138, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730416237 XXXX 1714730416237, Thread 5632: XXXX 1714730416237, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730416239 XXXX 1714730416239, Thread 5632: XXXX 1714730416239, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730416339 XXXX 1714730416339, Thread 5632: XXXX 1714730416339, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730416342 XXXX 1714730416342, Thread 5632: XXXX 1714730416342, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730416439 XXXX 1714730416439, Thread 5632: XXXX 1714730416439, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730416441 XXXX 1714730416441, Thread 5632: XXXX 1714730416441, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730416542 XXXX 1714730416542, Thread 5632: XXXX 1714730416542, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730416544 XXXX 1714730416544, Thread 5632: XXXX 1714730416544, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730416642 XXXX 1714730416642, Thread 5632: XXXX 1714730416642, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730416644 XXXX 1714730416644, Thread 5632: XXXX 1714730416644, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730416742 XXXX 1714730416742, Thread 5632: XXXX 1714730416742, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730416745 XXXX 1714730416745, Thread 5632: XXXX 1714730416745, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730416843 XXXX 1714730416843, Thread 5632: XXXX 1714730416843, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730416846 XXXX 1714730416846, Thread 5632: XXXX 1714730416846, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730416943 XXXX 1714730416943, Thread 5632: XXXX 1714730416943, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730416946 XXXX 1714730416946, Thread 5632: XXXX 1714730416946, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730417044 XXXX 1714730417044, Thread 5632: XXXX 1714730417044, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730417047 XXXX 1714730417047, Thread 5632: XXXX 1714730417047, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730417147 XXXX 1714730417147, Thread 5632: XXXX 1714730417147, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730417149 XXXX 1714730417149, Thread 5632: XXXX 1714730417149, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730417247 XXXX 1714730417247, Thread 5632: XXXX 1714730417247, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730417249 XXXX 1714730417249, Thread 5632: XXXX 1714730417249, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730417349 XXXX 1714730417349, Thread 5632: XXXX 1714730417349, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730417351 XXXX 1714730417351, Thread 5632: XXXX 1714730417351, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730417449 XXXX 1714730417449, Thread 5632: XXXX 1714730417449, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730417451 XXXX 1714730417451, Thread 5632: XXXX 1714730417451, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730417551 XXXX 1714730417551, Thread 5632: XXXX 1714730417551, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730417553 XXXX 1714730417553, Thread 5632: XXXX 1714730417553, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730417652 XXXX 1714730417652, Thread 5632: XXXX 1714730417652, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730417653 XXXX 1714730417653, Thread 5632: XXXX 1714730417653, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730417753 XXXX 1714730417753, Thread 5632: XXXX 1714730417753, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730417755 XXXX 1714730417755, Thread 5632: XXXX 1714730417755, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730417855 XXXX 1714730417855, Thread 5632: XXXX 1714730417855, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730417857 XXXX 1714730417857, Thread 5632: XXXX 1714730417857, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730417956 XXXX 1714730417956, Thread 5632: XXXX 1714730417956, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730417958 XXXX 1714730417958, Thread 5632: XXXX 1714730417958, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730418056 XXXX 1714730418056, Thread 5632: XXXX 1714730418056, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730418058 XXXX 1714730418058, Thread 5632: XXXX 1714730418058, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730418158 XXXX 1714730418158, Thread 5632: XXXX 1714730418158, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730418160 XXXX 1714730418160, Thread 5632: XXXX 1714730418160, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730418258 XXXX 1714730418258, Thread 5632: XXXX 1714730418258, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730418260 XXXX 1714730418260, Thread 5632: XXXX 1714730418260, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730418360 XXXX 1714730418360, Thread 5632: XXXX 1714730418360, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730418362 XXXX 1714730418362, Thread 5632: XXXX 1714730418362, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730418460 XXXX 1714730418460, Thread 5632: XXXX 1714730418460, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730418462 XXXX 1714730418462, Thread 5632: XXXX 1714730418462, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730418561 XXXX 1714730418561, Thread 5632: XXXX 1714730418561, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730418564 XXXX 1714730418564, Thread 5632: XXXX 1714730418564, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730418664 XXXX 1714730418664, Thread 5632: XXXX 1714730418664, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730418666 XXXX 1714730418666, Thread 5632: XXXX 1714730418666, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730418765 XXXX 1714730418765, Thread 5632: XXXX 1714730418765, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730418768 XXXX 1714730418768, Thread 5632: XXXX 1714730418768, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730418867 XXXX 1714730418867, Thread 5632: XXXX 1714730418867, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730418869 XXXX 1714730418869, Thread 5632: XXXX 1714730418869, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730418968 XXXX 1714730418968, Thread 5632: XXXX 1714730418968, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730418971 XXXX 1714730418971, Thread 5632: XXXX 1714730418971, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730419069 XXXX 1714730419069, Thread 5632: XXXX 1714730419069, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730419072 XXXX 1714730419072, Thread 5632: XXXX 1714730419072, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730419171 XXXX 1714730419171, Thread 5632: XXXX 1714730419171, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730419173 XXXX 1714730419173, Thread 5632: XXXX 1714730419173, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730419273 XXXX 1714730419273, Thread 5632: XXXX 1714730419273, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730419275 XXXX 1714730419275, Thread 5632: XXXX 1714730419275, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730419374 XXXX 1714730419374, Thread 5632: XXXX 1714730419374, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730419377 XXXX 1714730419377, Thread 5632: XXXX 1714730419377, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730419476 XXXX 1714730419476, Thread 5632: XXXX 1714730419476, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730419477 XXXX 1714730419477, Thread 5632: XXXX 1714730419477, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730419577 XXXX 1714730419577, Thread 5632: XXXX 1714730419577, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730419580 XXXX 1714730419580, Thread 5632: XXXX 1714730419580, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730419678 XXXX 1714730419678, Thread 5632: XXXX 1714730419678, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730419680 XXXX 1714730419680, Thread 5632: XXXX 1714730419680, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730419779 XXXX 1714730419779, Thread 5632: XXXX 1714730419779, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730419781 XXXX 1714730419781, Thread 5632: XXXX 1714730419781, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730419880 XXXX 1714730419880, Thread 5632: XXXX 1714730419880, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730419882 XXXX 1714730419882, Thread 5632: XXXX 1714730419882, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730419981 XXXX 1714730419981, Thread 5632: XXXX 1714730419981, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730419983 XXXX 1714730419983, Thread 5632: XXXX 1714730419983, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730420081 XXXX 1714730420081, Thread 5632: XXXX 1714730420081, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730420083 XXXX 1714730420083, Thread 5632: XXXX 1714730420083, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730420183 XXXX 1714730420183, Thread 5632: XXXX 1714730420183, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730420185 XXXX 1714730420185, Thread 5632: XXXX 1714730420185, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730420285 XXXX 1714730420285, Thread 5632: XXXX 1714730420285, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730420288 XXXX 1714730420288, Thread 5632: XXXX 1714730420288, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730420386 XXXX 1714730420386, Thread 5632: XXXX 1714730420386, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730420388 XXXX 1714730420388, Thread 5632: XXXX 1714730420388, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730420487 XXXX 1714730420487, Thread 5632: XXXX 1714730420487, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730420489 XXXX 1714730420489, Thread 5632: XXXX 1714730420489, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730420588 XXXX 1714730420588, Thread 5632: XXXX 1714730420588, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730420590 XXXX 1714730420590, Thread 5632: XXXX 1714730420590, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730420688 XXXX 1714730420688, Thread 5632: XXXX 1714730420688, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730420691 XXXX 1714730420691, Thread 5632: XXXX 1714730420691, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730420790 XXXX 1714730420790, Thread 5632: XXXX 1714730420790, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730420792 XXXX 1714730420792, Thread 5632: XXXX 1714730420792, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730420891 XXXX 1714730420891, Thread 5632: XXXX 1714730420891, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730420893 XXXX 1714730420893, Thread 5632: XXXX 1714730420893, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730420993 XXXX 1714730420993, Thread 5632: XXXX 1714730420993, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730420995 XXXX 1714730420995, Thread 5632: XXXX 1714730420995, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730421094 XXXX 1714730421094, Thread 5632: XXXX 1714730421094, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730421096 XXXX 1714730421096, Thread 5632: XXXX 1714730421096, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730421195 XXXX 1714730421195, Thread 5632: XXXX 1714730421195, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730421196 XXXX 1714730421196, Thread 5632: XXXX 1714730421196, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730421297 XXXX 1714730421297, Thread 5632: XXXX 1714730421297, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730421299 XXXX 1714730421299, Thread 5632: XXXX 1714730421299, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730421399 XXXX 1714730421399, Thread 5632: XXXX 1714730421399, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730421401 XXXX 1714730421401, Thread 5632: XXXX 1714730421401, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730421500 XXXX 1714730421500, Thread 5632: XXXX 1714730421500, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730421503 XXXX 1714730421503, Thread 5632: XXXX 1714730421503, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730421602 XXXX 1714730421602, Thread 5632: XXXX 1714730421602, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730421603 XXXX 1714730421603, Thread 5632: XXXX 1714730421603, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730421704 XXXX 1714730421704, Thread 5632: XXXX 1714730421704, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730421706 XXXX 1714730421706, Thread 5632: XXXX 1714730421706, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730421805 XXXX 1714730421805, Thread 5632: XXXX 1714730421805, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730421807 XXXX 1714730421807, Thread 5632: XXXX 1714730421807, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730421907 XXXX 1714730421907, Thread 5632: XXXX 1714730421907, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730421908 XXXX 1714730421908, Thread 5632: XXXX 1714730421908, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730422009 XXXX 1714730422009, Thread 5632: XXXX 1714730422009, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730422010 XXXX 1714730422010, Thread 5632: XXXX 1714730422010, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730422111 XXXX 1714730422111, Thread 5632: XXXX 1714730422111, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730422114 XXXX 1714730422114, Thread 5632: XXXX 1714730422114, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730422212 XXXX 1714730422212, Thread 5632: XXXX 1714730422212, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730422215 XXXX 1714730422215, Thread 5632: XXXX 1714730422215, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730422313 XXXX 1714730422313, Thread 5632: XXXX 1714730422313, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730422315 XXXX 1714730422315, Thread 5632: XXXX 1714730422315, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730422415 XXXX 1714730422415, Thread 5632: XXXX 1714730422415, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730422417 XXXX 1714730422417, Thread 5632: XXXX 1714730422417, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730422516 XXXX 1714730422516, Thread 5632: XXXX 1714730422516, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730422518 XXXX 1714730422518, Thread 5632: XXXX 1714730422518, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730422618 XXXX 1714730422618, Thread 5632: XXXX 1714730422618, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730422621 XXXX 1714730422621, Thread 5632: XXXX 1714730422621, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730422719 XXXX 1714730422719, Thread 5632: XXXX 1714730422719, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730422722 XXXX 1714730422722, Thread 5632: XXXX 1714730422722, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730422820 XXXX 1714730422820, Thread 5632: XXXX 1714730422820, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730422823 XXXX 1714730422823, Thread 5632: XXXX 1714730422823, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730422921 XXXX 1714730422921, Thread 5632: XXXX 1714730422921, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730422923 XXXX 1714730422923, Thread 5632: XXXX 1714730422923, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730423022 XXXX 1714730423022, Thread 5632: XXXX 1714730423022, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730423026 XXXX 1714730423026, Thread 5632: XXXX 1714730423026, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730423124 XXXX 1714730423124, Thread 5632: XXXX 1714730423124, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730423126 XXXX 1714730423126, Thread 5632: XXXX 1714730423126, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730423226 XXXX 1714730423226, Thread 5632: XXXX 1714730423226, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730423228 XXXX 1714730423228, Thread 5632: XXXX 1714730423228, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730423327 XXXX 1714730423327, Thread 5632: XXXX 1714730423327, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730423330 XXXX 1714730423330, Thread 5632: XXXX 1714730423330, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730423429 XXXX 1714730423429, Thread 5632: XXXX 1714730423429, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730423431 XXXX 1714730423431, Thread 5632: XXXX 1714730423431, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730423530 XXXX 1714730423530, Thread 5632: XXXX 1714730423530, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730423534 XXXX 1714730423534, Thread 5632: XXXX 1714730423534, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730423632 XXXX 1714730423632, Thread 5632: XXXX 1714730423632, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730423634 XXXX 1714730423634, Thread 5632: XXXX 1714730423634, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730423735 XXXX 1714730423735, Thread 5632: XXXX 1714730423735, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730423736 XXXX 1714730423736, Thread 5632: XXXX 1714730423736, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730423837 XXXX 1714730423837, Thread 5632: XXXX 1714730423837, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730423840 XXXX 1714730423840, Thread 5632: XXXX 1714730423840, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730423938 XXXX 1714730423938, Thread 5632: XXXX 1714730423938, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730423941 XXXX 1714730423941, Thread 5632: XXXX 1714730423941, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730424039 XXXX 1714730424039, Thread 5632: XXXX 1714730424039, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730424040 XXXX 1714730424040, Thread 5632: XXXX 1714730424040, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730424140 XXXX 1714730424140, Thread 5632: XXXX 1714730424140, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730424142 XXXX 1714730424142, Thread 5632: XXXX 1714730424142, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730424242 XXXX 1714730424242, Thread 5632: XXXX 1714730424242, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730424245 XXXX 1714730424245, Thread 5632: XXXX 1714730424245, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730424343 XXXX 1714730424343, Thread 5632: XXXX 1714730424343, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730424346 XXXX 1714730424346, Thread 5632: XXXX 1714730424346, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730424444 XXXX 1714730424444, Thread 5632: XXXX 1714730424444, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730424447 XXXX 1714730424447, Thread 5632: XXXX 1714730424447, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730424544 XXXX 1714730424544, Thread 5632: XXXX 1714730424544, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730424547 XXXX 1714730424547, Thread 5632: XXXX 1714730424547, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730424645 XXXX 1714730424645, Thread 5632: XXXX 1714730424645, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730424648 XXXX 1714730424648, Thread 5632: XXXX 1714730424648, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730424746 XXXX 1714730424746, Thread 5632: XXXX 1714730424746, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730424749 XXXX 1714730424749, Thread 5632: XXXX 1714730424749, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730424847 XXXX 1714730424847, Thread 5632: XXXX 1714730424847, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730424849 XXXX 1714730424849, Thread 5632: XXXX 1714730424849, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730424949 XXXX 1714730424949, Thread 5632: XXXX 1714730424949, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730424952 XXXX 1714730424952, Thread 5632: XXXX 1714730424952, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730425050 XXXX 1714730425050, Thread 5632: XXXX 1714730425050, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730425053 XXXX 1714730425053, Thread 5632: XXXX 1714730425053, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730425151 XXXX 1714730425151, Thread 5632: XXXX 1714730425151, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730425154 XXXX 1714730425154, Thread 5632: XXXX 1714730425154, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730425252 XXXX 1714730425252, Thread 5632: XXXX 1714730425252, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730425255 XXXX 1714730425255, Thread 5632: XXXX 1714730425255, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730425353 XXXX 1714730425353, Thread 5632: XXXX 1714730425353, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730425356 XXXX 1714730425356, Thread 5632: XXXX 1714730425356, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730425454 XXXX 1714730425454, Thread 5632: XXXX 1714730425454, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730425457 XXXX 1714730425457, Thread 5632: XXXX 1714730425457, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730425555 XXXX 1714730425555, Thread 5632: XXXX 1714730425555, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730425558 XXXX 1714730425558, Thread 5632: XXXX 1714730425558, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730425656 XXXX 1714730425656, Thread 5632: XXXX 1714730425656, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730425659 XXXX 1714730425659, Thread 5632: XXXX 1714730425659, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730425757 XXXX 1714730425757, Thread 5632: XXXX 1714730425757, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730425760 XXXX 1714730425760, Thread 5632: XXXX 1714730425760, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730425857 XXXX 1714730425857, Thread 5632: XXXX 1714730425857, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730425861 XXXX 1714730425861, Thread 5632: XXXX 1714730425861, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730425959 XXXX 1714730425959, Thread 5632: XXXX 1714730425959, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730425961 XXXX 1714730425961, Thread 5632: XXXX 1714730425961, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730426060 XXXX 1714730426060, Thread 5632: XXXX 1714730426060, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730426063 XXXX 1714730426063, Thread 5632: XXXX 1714730426063, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730426160 XXXX 1714730426160, Thread 5632: XXXX 1714730426160, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730426162 XXXX 1714730426162, Thread 5632: XXXX 1714730426162, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730426260 XXXX 1714730426260, Thread 5632: XXXX 1714730426260, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730426263 XXXX 1714730426263, Thread 5632: XXXX 1714730426263, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730426361 XXXX 1714730426361, Thread 5632: XXXX 1714730426361, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730426364 XXXX 1714730426364, Thread 5632: XXXX 1714730426364, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730426462 XXXX 1714730426462, Thread 5632: XXXX 1714730426462, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730426465 XXXX 1714730426465, Thread 5632: XXXX 1714730426465, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730426564 XXXX 1714730426564, Thread 5632: XXXX 1714730426564, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730426567 XXXX 1714730426567, Thread 5632: XXXX 1714730426567, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730426665 XXXX 1714730426665, Thread 5632: XXXX 1714730426665, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730426668 XXXX 1714730426668, Thread 5632: XXXX 1714730426668, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730426766 XXXX 1714730426766, Thread 5632: XXXX 1714730426766, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730426769 XXXX 1714730426769, Thread 5632: XXXX 1714730426769, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730426868 XXXX 1714730426868, Thread 5632: XXXX 1714730426868, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730426870 XXXX 1714730426870, Thread 5632: XXXX 1714730426870, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730426970 XXXX 1714730426970, Thread 5632: XXXX 1714730426970, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730426972 XXXX 1714730426972, Thread 5632: XXXX 1714730426972, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730427071 XXXX 1714730427071, Thread 5632: XXXX 1714730427071, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730427073 XXXX 1714730427073, Thread 5632: XXXX 1714730427073, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730427172 XXXX 1714730427172, Thread 5632: XXXX 1714730427172, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730427175 XXXX 1714730427175, Thread 5632: XXXX 1714730427175, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730427274 XXXX 1714730427274, Thread 5632: XXXX 1714730427274, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730427276 XXXX 1714730427276, Thread 5632: XXXX 1714730427276, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730427376 XXXX 1714730427376, Thread 5632: XXXX 1714730427376, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730427378 XXXX 1714730427378, Thread 5632: XXXX 1714730427378, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730427478 XXXX 1714730427478, Thread 5632: XXXX 1714730427478, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730427481 XXXX 1714730427481, Thread 5632: XXXX 1714730427481, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730427580 XXXX 1714730427580, Thread 5632: XXXX 1714730427580, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730427582 XXXX 1714730427582, Thread 5632: XXXX 1714730427582, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730427681 XXXX 1714730427681, Thread 5632: XXXX 1714730427681, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730427684 XXXX 1714730427684, Thread 5632: XXXX 1714730427684, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730427783 XXXX 1714730427783, Thread 5632: XXXX 1714730427783, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730427786 XXXX 1714730427786, Thread 5632: XXXX 1714730427786, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730427885 XXXX 1714730427885, Thread 5632: XXXX 1714730427885, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730427887 XXXX 1714730427887, Thread 5632: XXXX 1714730427887, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730427986 XXXX 1714730427986, Thread 5632: XXXX 1714730427986, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730427989 XXXX 1714730427989, Thread 5632: XXXX 1714730427989, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730428087 XXXX 1714730428087, Thread 5632: XXXX 1714730428087, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730428090 XXXX 1714730428090, Thread 5632: XXXX 1714730428090, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730428188 XXXX 1714730428188, Thread 5632: XXXX 1714730428188, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730428190 XXXX 1714730428190, Thread 5632: XXXX 1714730428190, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730428290 XXXX 1714730428290, Thread 5632: XXXX 1714730428290, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730428292 XXXX 1714730428292, Thread 5632: XXXX 1714730428292, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730428390 XXXX 1714730428390, Thread 5632: XXXX 1714730428390, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730428393 XXXX 1714730428393, Thread 5632: XXXX 1714730428393, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730428490 XXXX 1714730428490, Thread 5632: XXXX 1714730428490, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730428492 XXXX 1714730428492, Thread 5632: XXXX 1714730428492, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730428591 XXXX 1714730428591, Thread 5632: XXXX 1714730428591, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730428593 XXXX 1714730428593, Thread 5632: XXXX 1714730428593, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730428692 XXXX 1714730428692, Thread 5632: XXXX 1714730428692, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730428694 XXXX 1714730428694, Thread 5632: XXXX 1714730428694, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730428793 XXXX 1714730428793, Thread 5632: XXXX 1714730428793, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730428797 XXXX 1714730428797, Thread 5632: XXXX 1714730428797, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730428895 XXXX 1714730428895, Thread 5632: XXXX 1714730428895, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730428898 XXXX 1714730428898, Thread 5632: XXXX 1714730428898, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730428997 XXXX 1714730428997, Thread 5632: XXXX 1714730428997, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730428999 XXXX 1714730428999, Thread 5632: XXXX 1714730428999, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730429098 XXXX 1714730429098, Thread 5632: XXXX 1714730429098, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730429101 XXXX 1714730429101, Thread 5632: XXXX 1714730429101, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730429199 XXXX 1714730429198, Thread 5632: XXXX 1714730429198, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730429200 XXXX 1714730429200, Thread 5632: XXXX 1714730429200, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730429299 XXXX 1714730429299, Thread 5632: XXXX 1714730429299, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730429301 XXXX 1714730429301, Thread 5632: XXXX 1714730429301, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730429401 XXXX 1714730429401, Thread 5632: XXXX 1714730429401, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730429403 XXXX 1714730429403, Thread 5632: XXXX 1714730429403, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730429502 XXXX 1714730429502, Thread 5632: XXXX 1714730429502, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730429505 XXXX 1714730429505, Thread 5632: XXXX 1714730429505, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730429603 XXXX 1714730429603, Thread 5632: XXXX 1714730429602, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730429606 XXXX 1714730429606, Thread 5632: XXXX 1714730429606, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730429705 XXXX 1714730429705, Thread 5632: XXXX 1714730429705, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730429707 XXXX 1714730429707, Thread 5632: XXXX 1714730429707, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730429806 XXXX 1714730429806, Thread 5632: XXXX 1714730429806, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730429809 XXXX 1714730429809, Thread 5632: XXXX 1714730429809, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730429906 XXXX 1714730429906, Thread 5632: XXXX 1714730429906, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730429909 XXXX 1714730429909, Thread 5632: XXXX 1714730429909, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730430007 XXXX 1714730430007, Thread 5632: XXXX 1714730430007, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730430009 XXXX 1714730430009, Thread 5632: XXXX 1714730430009, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730430108 XXXX 1714730430108, Thread 5632: XXXX 1714730430108, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730430109 XXXX 1714730430109, Thread 5632: XXXX 1714730430109, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730430210 XXXX 1714730430210, Thread 5632: XXXX 1714730430210, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730430212 XXXX 1714730430212, Thread 5632: XXXX 1714730430212, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730430311 XXXX 1714730430311, Thread 5632: XXXX 1714730430311, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730430314 XXXX 1714730430314, Thread 5632: XXXX 1714730430314, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730430412 XXXX 1714730430412, Thread 5632: XXXX 1714730430412, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730430415 XXXX 1714730430415, Thread 5632: XXXX 1714730430415, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730430512 XXXX 1714730430512, Thread 5632: XXXX 1714730430512, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730430515 XXXX 1714730430515, Thread 5632: XXXX 1714730430515, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730430614 XXXX 1714730430614, Thread 5632: XXXX 1714730430614, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730430617 XXXX 1714730430617, Thread 5632: XXXX 1714730430617, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730430716 XXXX 1714730430716, Thread 5632: XXXX 1714730430716, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730430719 XXXX 1714730430719, Thread 5632: XXXX 1714730430719, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730430816 XXXX 1714730430816, Thread 5632: XXXX 1714730430816, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730430818 XXXX 1714730430818, Thread 5632: XXXX 1714730430818, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730430918 XXXX 1714730430918, Thread 5632: XXXX 1714730430918, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730430920 XXXX 1714730430920, Thread 5632: XXXX 1714730430920, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730431019 XXXX 1714730431019, Thread 5632: XXXX 1714730431019, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730431021 XXXX 1714730431021, Thread 5632: XXXX 1714730431021, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730431121 XXXX 1714730431121, Thread 5632: XXXX 1714730431121, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730431123 XXXX 1714730431123, Thread 5632: XXXX 1714730431123, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730431221 XXXX 1714730431221, Thread 5632: XXXX 1714730431221, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730431224 XXXX 1714730431224, Thread 5632: XXXX 1714730431224, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730431322 XXXX 1714730431322, Thread 5632: XXXX 1714730431322, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730431324 XXXX 1714730431324, Thread 5632: XXXX 1714730431324, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730431423 XXXX 1714730431423, Thread 5632: XXXX 1714730431423, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730431426 XXXX 1714730431426, Thread 5632: XXXX 1714730431426, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730431524 XXXX 1714730431524, Thread 5632: XXXX 1714730431524, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730431526 XXXX 1714730431526, Thread 5632: XXXX 1714730431526, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730431626 XXXX 1714730431626, Thread 5632: XXXX 1714730431626, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730431627 XXXX 1714730431627, Thread 5632: XXXX 1714730431627, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730431727 XXXX 1714730431727, Thread 5632: XXXX 1714730431727, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730431729 XXXX 1714730431729, Thread 5632: XXXX 1714730431729, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730431827 XXXX 1714730431827, Thread 5632: XXXX 1714730431827, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730431830 XXXX 1714730431830, Thread 5632: XXXX 1714730431830, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730431928 XXXX 1714730431928, Thread 5632: XXXX 1714730431928, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730431930 XXXX 1714730431930, Thread 5632: XXXX 1714730431930, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730432029 XXXX 1714730432029, Thread 5632: XXXX 1714730432029, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730432032 XXXX 1714730432032, Thread 5632: XXXX 1714730432032, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730432131 XXXX 1714730432131, Thread 5632: XXXX 1714730432131, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730432133 XXXX 1714730432133, Thread 5632: XXXX 1714730432133, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730432232 XXXX 1714730432232, Thread 5632: XXXX 1714730432232, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730432235 XXXX 1714730432235, Thread 5632: XXXX 1714730432235, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730432333 XXXX 1714730432333, Thread 5632: XXXX 1714730432333, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730432335 XXXX 1714730432335, Thread 5632: XXXX 1714730432335, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730432433 XXXX 1714730432433, Thread 5632: XXXX 1714730432433, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730432436 XXXX 1714730432436, Thread 5632: XXXX 1714730432436, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730432534 XXXX 1714730432534, Thread 5632: XXXX 1714730432534, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730432536 XXXX 1714730432536, Thread 5632: XXXX 1714730432536, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730432635 XXXX 1714730432635, Thread 5632: XXXX 1714730432635, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730432637 XXXX 1714730432637, Thread 5632: XXXX 1714730432637, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730432735 XXXX 1714730432735, Thread 5632: XXXX 1714730432735, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730432739 XXXX 1714730432739, Thread 5632: XXXX 1714730432739, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730432836 XXXX 1714730432836, Thread 5632: XXXX 1714730432836, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730432838 XXXX 1714730432838, Thread 5632: XXXX 1714730432838, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730432937 XXXX 1714730432937, Thread 5632: XXXX 1714730432937, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730432940 XXXX 1714730432940, Thread 5632: XXXX 1714730432940, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730433037 XXXX 1714730433037, Thread 5632: XXXX 1714730433037, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730433040 XXXX 1714730433040, Thread 5632: XXXX 1714730433040, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730433138 XXXX 1714730433138, Thread 5632: XXXX 1714730433138, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730433141 XXXX 1714730433141, Thread 5632: XXXX 1714730433141, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730433239 XXXX 1714730433239, Thread 5632: XXXX 1714730433239, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730433241 XXXX 1714730433241, Thread 5632: XXXX 1714730433241, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730433340 XXXX 1714730433340, Thread 5632: XXXX 1714730433340, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730433343 XXXX 1714730433343, Thread 5632: XXXX 1714730433343, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730433441 XXXX 1714730433441, Thread 5632: XXXX 1714730433441, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730433444 XXXX 1714730433444, Thread 5632: XXXX 1714730433444, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730433543 XXXX 1714730433543, Thread 5632: XXXX 1714730433543, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730433545 XXXX 1714730433545, Thread 5632: XXXX 1714730433545, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730433643 XXXX 1714730433643, Thread 5632: XXXX 1714730433643, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730433645 XXXX 1714730433645, Thread 5632: XXXX 1714730433645, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730433744 XXXX 1714730433744, Thread 5632: XXXX 1714730433744, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730433747 XXXX 1714730433747, Thread 5632: XXXX 1714730433747, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730433845 XXXX 1714730433845, Thread 5632: XXXX 1714730433845, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730433848 XXXX 1714730433848, Thread 5632: XXXX 1714730433848, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730433945 XXXX 1714730433945, Thread 5632: XXXX 1714730433945, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730433948 XXXX 1714730433948, Thread 5632: XXXX 1714730433948, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730434047 XXXX 1714730434047, Thread 5632: XXXX 1714730434047, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730434049 XXXX 1714730434049, Thread 5632: XXXX 1714730434049, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730434147 XXXX 1714730434147, Thread 5632: XXXX 1714730434147, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730434150 XXXX 1714730434150, Thread 5632: XXXX 1714730434150, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730434248 XXXX 1714730434248, Thread 5632: XXXX 1714730434248, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730434251 XXXX 1714730434251, Thread 5632: XXXX 1714730434251, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730434349 XXXX 1714730434349, Thread 5632: XXXX 1714730434349, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730434352 XXXX 1714730434352, Thread 5632: XXXX 1714730434352, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730434449 XXXX 1714730434449, Thread 5632: XXXX 1714730434449, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730434453 XXXX 1714730434453, Thread 5632: XXXX 1714730434453, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730434551 XXXX 1714730434551, Thread 5632: XXXX 1714730434551, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730434554 XXXX 1714730434554, Thread 5632: XXXX 1714730434554, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730434652 XXXX 1714730434652, Thread 5632: XXXX 1714730434652, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730434655 XXXX 1714730434655, Thread 5632: XXXX 1714730434655, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730434753 XXXX 1714730434753, Thread 5632: XXXX 1714730434753, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730434756 XXXX 1714730434756, Thread 5632: XXXX 1714730434756, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730434854 XXXX 1714730434854, Thread 5632: XXXX 1714730434853, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730434856 XXXX 1714730434856, Thread 5632: XXXX 1714730434856, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730434958 XXXX 1714730434958, Thread 5632: XXXX 1714730434958, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730434959 XXXX 1714730434959, Thread 5632: XXXX 1714730434959, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730435058 XXXX 1714730435058, Thread 5632: XXXX 1714730435058, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730435060 XXXX 1714730435060, Thread 5632: XXXX 1714730435060, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730435161 XXXX 1714730435161, Thread 5632: XXXX 1714730435161, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730435163 XXXX 1714730435163, Thread 5632: XXXX 1714730435163, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730435262 XXXX 1714730435262, Thread 5632: XXXX 1714730435262, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730435264 XXXX 1714730435264, Thread 5632: XXXX 1714730435264, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730435363 XXXX 1714730435363, Thread 5632: XXXX 1714730435363, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730435366 XXXX 1714730435366, Thread 5632: XXXX 1714730435366, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730435464 XXXX 1714730435464, Thread 5632: XXXX 1714730435464, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730435467 XXXX 1714730435467, Thread 5632: XXXX 1714730435467, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730435566 XXXX 1714730435566, Thread 5632: XXXX 1714730435566, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730435569 XXXX 1714730435569, Thread 5632: XXXX 1714730435569, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730435667 XXXX 1714730435667, Thread 5632: XXXX 1714730435667, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730435668 XXXX 1714730435668, Thread 5632: XXXX 1714730435668, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730435768 XXXX 1714730435768, Thread 5632: XXXX 1714730435768, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730435771 XXXX 1714730435771, Thread 5632: XXXX 1714730435771, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730435869 XXXX 1714730435869, Thread 5632: XXXX 1714730435869, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730435871 XXXX 1714730435871, Thread 5632: XXXX 1714730435871, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730435970 XXXX 1714730435970, Thread 5632: XXXX 1714730435970, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730435972 XXXX 1714730435972, Thread 5632: XXXX 1714730435972, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730436071 XXXX 1714730436071, Thread 5632: XXXX 1714730436071, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730436074 XXXX 1714730436074, Thread 5632: XXXX 1714730436074, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730436173 XXXX 1714730436173, Thread 5632: XXXX 1714730436173, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730436175 XXXX 1714730436175, Thread 5632: XXXX 1714730436175, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730436275 XXXX 1714730436275, Thread 5632: XXXX 1714730436275, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730436277 XXXX 1714730436277, Thread 5632: XXXX 1714730436277, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730436376 XXXX 1714730436376, Thread 5632: XXXX 1714730436376, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730436379 XXXX 1714730436379, Thread 5632: XXXX 1714730436379, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730436477 XXXX 1714730436477, Thread 5632: XXXX 1714730436477, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730436479 XXXX 1714730436479, Thread 5632: XXXX 1714730436479, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730436578 XXXX 1714730436578, Thread 5632: XXXX 1714730436578, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730436581 XXXX 1714730436581, Thread 5632: XXXX 1714730436581, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730436679 XXXX 1714730436679, Thread 5632: XXXX 1714730436679, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730436681 XXXX 1714730436681, Thread 5632: XXXX 1714730436681, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730436781 XXXX 1714730436781, Thread 5632: XXXX 1714730436781, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730436782 XXXX 1714730436782, Thread 5632: XXXX 1714730436782, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730436881 XXXX 1714730436881, Thread 5632: XXXX 1714730436881, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730436883 XXXX 1714730436883, Thread 5632: XXXX 1714730436883, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730436981 XXXX 1714730436981, Thread 5632: XXXX 1714730436981, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730436984 XXXX 1714730436984, Thread 5632: XXXX 1714730436984, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730437081 XXXX 1714730437081, Thread 5632: XXXX 1714730437081, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730437084 XXXX 1714730437084, Thread 5632: XXXX 1714730437084, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730437184 XXXX 1714730437184, Thread 5632: XXXX 1714730437184, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730437186 XXXX 1714730437186, Thread 5632: XXXX 1714730437186, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730437285 XXXX 1714730437285, Thread 5632: XXXX 1714730437285, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730437288 XXXX 1714730437288, Thread 5632: XXXX 1714730437288, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730437386 XXXX 1714730437386, Thread 5632: XXXX 1714730437386, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730437388 XXXX 1714730437388, Thread 5632: XXXX 1714730437388, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730437487 XXXX 1714730437487, Thread 5632: XXXX 1714730437487, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730437490 XXXX 1714730437490, Thread 5632: XXXX 1714730437490, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730437589 XXXX 1714730437589, Thread 5632: XXXX 1714730437589, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730437591 XXXX 1714730437591, Thread 5632: XXXX 1714730437591, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730437691 XXXX 1714730437691, Thread 5632: XXXX 1714730437691, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730437693 XXXX 1714730437693, Thread 5632: XXXX 1714730437693, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730437792 XXXX 1714730437792, Thread 5632: XXXX 1714730437792, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730437795 XXXX 1714730437795, Thread 5632: XXXX 1714730437795, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730437894 XXXX 1714730437894, Thread 5632: XXXX 1714730437894, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730437896 XXXX 1714730437896, Thread 5632: XXXX 1714730437896, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730437995 XXXX 1714730437995, Thread 5632: XXXX 1714730437995, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730437997 XXXX 1714730437997, Thread 5632: XXXX 1714730437997, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730438097 XXXX 1714730438097, Thread 5632: XXXX 1714730438097, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730438099 XXXX 1714730438099, Thread 5632: XXXX 1714730438099, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730438199 XXXX 1714730438199, Thread 5632: XXXX 1714730438199, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730438201 XXXX 1714730438201, Thread 5632: XXXX 1714730438201, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730438301 XXXX 1714730438301, Thread 5632: XXXX 1714730438301, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730438303 XXXX 1714730438303, Thread 5632: XXXX 1714730438303, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730438402 XXXX 1714730438402, Thread 5632: XXXX 1714730438402, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730438405 XXXX 1714730438405, Thread 5632: XXXX 1714730438405, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730438505 XXXX 1714730438505, Thread 5632: XXXX 1714730438505, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730438507 XXXX 1714730438507, Thread 5632: XXXX 1714730438507, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730438607 XXXX 1714730438607, Thread 5632: XXXX 1714730438607, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730438609 XXXX 1714730438609, Thread 5632: XXXX 1714730438609, Exiting Thread 5632: Commands::runScriptBasic  
+5632 1714730438709 XXXX 1714730438709, Thread 5632: XXXX 1714730438709, Entering Thread 5632: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+5632 1714730438711 XXXX 1714730438711, Thread 5632: XXXX 1714730438711, Exiting Thread 5632: Commands::runScriptBasic  
+
+5632 1714730438775 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:HaltTarget
+5632 1714730438775 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+5632 1714730438775 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+5632 1714730438775 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+5632 1714730438775 XXXX 1714730438775, Thread 5632: XXXX 1714730438775, Entering Thread 5632: Commands::runScriptBasic, script name = Halt, timeOut = -1 ms  
+5632 1714730439777 XXXX 1714730439777, Thread 5632: Type = runScript, Script name = Halt, Status = 0xc00
+ 
+
+16763 1714730439785 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:GetPC
+16763 1714730439785 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+16763 1714730439785 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 null
+16763 1714730439785 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+16763 1714730439785 XXXX 1714730439785, Thread 16763: XXXX 1714730439785, Entering Thread 16763: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+16763 1714730441786 XXXX 1714730441786, Thread 16763: Type = runScript, Script name = GetPC, Status = 0xc06
+ 
+
+16763 1714730441790 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Pre:DebugReadTargetMemory
+16763 1714730441790 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload
+16763 1714730441790 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 FileRegs
+16763 1714730441790 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 0
+16763 1714730441790 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 1
+16763 1714730441790 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Length = 2
+16763 1714730441790 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512GM706 Payload End
+16763 1714730441790 XXXX 1714730441790, Thread 16763: XXXX 1714730441790, Entering Thread 16763: Commands::runScriptWithUpload, script name = ReadSFR  
+16763 1714730441790 XXXX 1714730441790, Thread 16763: XXXX 1714730441790, Entering Thread 16763: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+34 1714730949626 GEN4_CONNECT_DIAGNOSTICS:Calling Update on plug and play observer com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@344c7c36
+34 1714730949626 GEN4_CONNECT_DIAGNOSTICS:Entering plug and play Update(). Attached PID = 9015
+34 1714730949627 GEN4_CONNECT_DIAGNOSTICS:Entering MPLABCommEvent handler
+34 1714730949627 GEN4_CONNECT_DIAGNOSTICS:MPLABCommEvent.pid = 9015
+34 1714730949627 GEN4_CONNECT_DIAGNOSTICS:eventType = MPLABCOMM_TOOL_UNPLUGGED
+34 1714730949629 GEN4_CONNECT_DIAGNOSTICS:Exiting plug and play Update()
+17457 1714731012013 XXXX 1714731012013, Thread 17457: ToolCommUsb::read, com.Received returned -1 
+17457 1714731012014 XXXX 1714731012014, Thread 17457: ToolCommUsb::DataReader::run, fatal RI4ControllerException: {null} 
+16763 1714731012016 XXXX 1714731012016, Thread 16763: com.Send returned false 
