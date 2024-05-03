@@ -44,7 +44,7 @@ int main(void) {
     // Boucle Principale
     /****************************************************************************************************/
     while (1) {
-        if (ADCIsConversionFinished() == 1) {
+        /*if (ADCIsConversionFinished() == 1) {
 
             ADCClearConversionFinishedFlag();
             unsigned int * result = ADCGetResult();
@@ -56,9 +56,9 @@ int main(void) {
             robotState.distanceTelemetreGauche = 34 / volts - 5;
             unsigned char payloadtelemetre[] = {robotState.distanceTelemetreGauche, robotState.distanceTelemetreCentre, robotState.distanceTelemetreDroit};
             UartEncodeAndSendMessage(0x0030, 3, payloadtelemetre);
-            __delay32(40000000);
+           // __delay32(40000000);
 
-        }
+        }*/
         //SendMessageDirect((unsigned char*) "bonjour", 7);
         //__delay32(40000000);
         /*SendMessage((unsigned char*) "bonjour", 7);
@@ -69,8 +69,8 @@ int main(void) {
 //            SendMessage(&c, 1);
 //        }
 //        __delay32(1000);
-//        unsigned char payload[] = {'B', 'o', 'n', 'j', 'o', 'u', 'r'};
-//        UartEncodeAndSendMessage(0x0080, 7, payload);
-//        __delay32(40000000);
+        unsigned char payload[] = {'B', 'o', 'n', 'j', 'o', 'u', 'r'};
+        UartEncodeAndSendMessage(0x0080, 7, payload);
+        __delay32(40000000);
     } // fin main
 }

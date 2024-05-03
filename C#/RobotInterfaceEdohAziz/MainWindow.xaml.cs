@@ -55,11 +55,13 @@ namespace RobotInterface
         {
             while (robot.byteListReceived.Count >0)
             {
-                var c = robot.byteListReceived.Dequeue();
-                textBoxReception.Text += "0x" + c.ToString("X2") + " ";
+               //var c = robot.byteListReceived.Dequeue();
+               // textBoxReception.Text += "0x" + c.ToString("X2") + " ";
+              //  textBoxReception.Text += (c) + Environment.NewLine;
                 //textBoxReception.Text += Encoding.ASCII.GetString(robot.byteListReceived.ToArray());
-                
+               DecodeMessage(robot.byteListReceived.Dequeue());
 
+                
             }
         }
         public void SerialPort1_DataReceived(object sender, DataReceivedArgs e)
@@ -170,6 +172,7 @@ namespace RobotInterface
                     byte calculatedChecksum = CalculateChecksum(msgDecodedFunction, msgDecodedPayloadLength, msgDecodedPayload) ;
                     if (calculatedChecksum == receivedChecksum)
                     {
+                        ProcessDecodedMessage(msgDecodedFunction, msgDecodedPayloadLength, msgDecodedPayload);
                         //Success, on a un message valide
                         Console.WriteLine("message reçu");
                     }
@@ -231,20 +234,22 @@ namespace RobotInterface
                     break;
 
                 case (int)Command.ir:
-
-                    for (int i = 0; i < msgPayloadLength; i++)
+                    Dispatcher.BeginInvoke(new Action(delegate ()
                     {
-                        textBoxReception.Text += "0x" + msgPayload[i].ToString("X") + " ";
-                    }
-                    textBoxReception.Text += Environment.NewLine;
-                    textBoxReception.Text += "Télémètre Gauche : " + msgPayload[0].ToString() + Environment.NewLine;    //AFFichage de la valeur de télémètre gauche
-                    textBoxReception.Text += "Télémètre Centre : " + msgPayload[1].ToString() + Environment.NewLine;    // Affichage de la valeur de télémètre  centre
-                    textBoxReception.Text += "Télémètre Droit : " + msgPayload[2].ToString() + Environment.NewLine;     // Valeur télémètre droit
-                    textBoxReception.Text += Environment.NewLine;
+                        for (int i = 0; i < msgPayloadLength; i++)
+                        {
+                            textBoxReception.Text += "0x" + msgPayload[i].ToString("X") + " ";
+                        }
+                        textBoxReception.Text += Environment.NewLine;
+                        textBoxReception.Text += "Télémètre Gauche : " + msgPayload[0].ToString() + Environment.NewLine;    //AFFichage de la valeur de télémètre gauche
+                        textBoxReception.Text += "Télémètre Centre : " + msgPayload[1].ToString() + Environment.NewLine;    // Affichage de la valeur de télémètre  centre
+                        textBoxReception.Text += "Télémètre Droit : " + msgPayload[2].ToString() + Environment.NewLine;     // Valeur télémètre droit
+                        textBoxReception.Text += Environment.NewLine;
 
-                    IR_Gauche.Content = ("IR Gauche : ") + msgPayload[0].ToString() + ("cm");    // Actualisation du content de télètre gauche
-                    IR_Centre.Content = ("IR Centre : ") + msgPayload[1].ToString() + ("cm");    // Actualisation du télémètre Centre
-                    IR_Droit.Content = ("IR Droit : ") + msgPayload[2].ToString() + ("cm");        // Actualisation du content de telemetre droit
+                        IR_Gauche.Content = ("IR Gauche : ") + msgPayload[0].ToString() + ("cm");    // Actualisation du content de télètre gauche
+                        IR_Centre.Content = ("IR Centre : ") + msgPayload[1].ToString() + ("cm");    // Actualisation du télémètre Centre
+                        IR_Droit.Content = ("IR Droit : ") + msgPayload[2].ToString() + ("cm");        // Actualisation du content de telemetre droit
+                    }));
                     break;
 
                 case (int)Command.vitesse:
