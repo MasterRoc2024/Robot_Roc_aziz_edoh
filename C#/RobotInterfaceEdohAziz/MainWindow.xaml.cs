@@ -6,7 +6,7 @@ using System.Windows.Media;
 using ExtendedSerialPort_NS;
 using System.IO.Ports;
 using System.Windows.Threading;
-using KeyboardHook_NS;
+
 
 namespace RobotInterface
 {
@@ -19,12 +19,12 @@ namespace RobotInterface
         bool isRoyalBlue;
         
         Robot robot = new Robot();      // Instanciation de la classe robot
-
+        DispatcherTimer timerAffichage;
         public MainWindow()
         {
             InitializeComponent();
            serialPort1 = new ExtendedSerialPort("COM21", 115200, Parity.None, 8, StopBits.One); // Initialize the serial port
-         //   serialPort1 = new ReliableSerialPort("COM21", 115200, Parity.None, 8, StopBits.One);
+        
 
             serialPort1.DataReceived += SerialPort1_DataReceived; 
 
@@ -36,8 +36,7 @@ namespace RobotInterface
             timerAffichage.Tick += TimerAffichage_Tick;
             timerAffichage.Start();
 
-            var _globalKeyboardHook = new GlobalKeyboardHook();
-            _globalKeyboardHook.KeyPressed += _globalKeyboardHook_KeyPressed;
+          
 
         }
 
@@ -45,17 +44,20 @@ namespace RobotInterface
 
         private void TimerAffichage_Tick(object? sender, EventArgs e)
         {
+            
             while (robot.byteListReceived.Count >0)
             {
-               var c = robot.byteListReceived.Dequeue();
-               // textBoxReception.Text += "0x" + c.ToString("X2") + " ";
-              //  textBoxReception.Text += (c) + Environment.NewLine;
+                //var c = robot.byteListReceived.Dequeue();
+                //textBoxReception.Text += "0x" + c.ToString("X2") + " " ;
+                //  textBoxReception.Text += (c) + Environment.NewLine;
                 //textBoxReception.Text += Encoding.ASCII.GetString(robot.byteListReceived.ToArray());
-               DecodeMessage(c);
-          //     DecodeMessage(robot.byteListReceived.Dequeue());
+                //DecodeMessage(c);
+               DecodeMessage(robot.byteListReceived.Dequeue());
 
-                
+
             }
+           
+
         }
         public void SerialPort1_DataReceived(object sender, DataReceivedArgs e)
         {
@@ -68,38 +70,9 @@ namespace RobotInterface
             }
         }
 
-        DispatcherTimer timerAffichage;
+      
 
-        private static void _globalKeyboardHook_KeyPressed(object? sender, KeyArgs e)
-        {
-            if (autoControlActivated == false)
-
-            {
-                switch (e.keyCode)
-                {
-                    case KeyCode.LEFT:
-                                            UartEncodeAndSendMessage(0x0051, 1, new byte[] {
-                    {byte)StateRobot.STATE_TOURNE_SUR_PLACE_GAUCHE });
-                                    break;
-                    case KeyCode.RIGHT:
-                                        UartEncodeAndSendMessage(0x0051, 1, new byte[] {
-                    (byte)StateRobot.STATE_TOURNE_SUR_PLACE_DROITE });
-                                        break;
-                                    case KeyCode.UP:
-                    UartEncodeAndSendMessage(0x0051, 1, new byte[]
-                    { (byte)StateRobot.STATE_AVANCE });
-                    break;
-                case KeyCode.DOWN:
-                    UartEncodeAndSendMessage(0x0051, 1, new byte[]
-                    { (byte)StateRobot.STATE_ARRET });
-                    break;
-                case KeyCode.PAGEDOWN:
-                    UartEncodeAndSendMessage(0x0051, 1, new byte[]
-                    { (byte)StateRobot.STATE_RECULE });
-                    break;
-                }
-            }
-        }
+     
 
         byte CalculateChecksum(int msgFunction, int msgPayloadLength, byte[] msgPayload)
         {
@@ -316,12 +289,13 @@ namespace RobotInterface
         }
         private void SendMessage()
         {
-           //erialPort1.WriteLine(textBoxEmission.Text);
+            serialPort1.WriteLine(textBoxEmission.Text);
             //textBoxReception.Text += "Reçu : " + textBoxEmission.Text + "\n";
-            //textBoxEmission.Text = "";*
-          //UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+            //textBoxEmission.Text = "";
 
-          
+            //UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+
+
         }
 
         private void TextBoxEmission_Keyup(object sender, KeyEventArgs e)
@@ -346,28 +320,33 @@ namespace RobotInterface
         private void ButtonTest_Click(object sender, RoutedEventArgs e)
         {
 
-            //byte[] byteList = new byte[20];
-            //for (int i = 0; i < 20; i++)
-            //    byteList[i] = (byte)(i * 2);
+            byte[] byteList = new byte[20];
+            for (int i = 0; i < 20; i++)
+                byteList[i] = (byte)(i * 2);
 
 
-            //serialPort1.Write(byteList, 0, byteList.Length);
-            int v = 0x0020;
-            byte[] payload = { 1, 1 };
-            int payloadlength = payload.Length;
-         
-         ProcessDecodedMessage(v, payloadlength, payload);
-            int m = 0x0040;
-            byte[] moteurpayload = { 10, 20 };
-            ProcessDecodedMessage(m, moteurpayload.Length, moteurpayload);
+            serialPort1.Write(byteList, 0, byteList.Length);
+            //   int v = 0x0020;
+            //   byte[] payload = { 1, 1 };
+            //   int payloadlength = payload.Length;
 
-            int t = 0x0030;
-            byte[] telemetrepayload = { 12, 13, 14 };
-            ProcessDecodedMessage(t, telemetrepayload.Length, telemetrepayload);
+            //ProcessDecodedMessage(v, payloadlength, payload);
+            //   int m = 0x0040;
+            //   byte[] moteurpayload = { 10, 20 };
+            //   ProcessDecodedMessage(m, moteurpayload.Length, moteurpayload);
+
+            //   int t = 0x0030;
+            //   byte[] telemetrepayload = { 12, 13, 14 };
+            //   ProcessDecodedMessage(t, telemetrepayload.Length, telemetrepayload);
 
 
-       //UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
+            //UartEncodeAndSendMessage(0x0080, 7, Encoding.ASCII.GetBytes("Bonjour"));
 
+
+        }
+
+        private void textBoxReception_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
+        {
 
         }
     }

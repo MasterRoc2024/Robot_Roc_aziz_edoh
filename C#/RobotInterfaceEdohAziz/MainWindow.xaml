@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:RobotInterface"
         mc:Ignorable="d"
         Title="MainWindow" Height="480" Width="800">
-    <Grid>
+    <Grid Background="#FFDDDDDD">
         <Grid.RowDefinitions>
             <RowDefinition Height="180*"/>
             <RowDefinition Height="50"/>
